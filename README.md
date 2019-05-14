@@ -1,14 +1,34 @@
 # Awesome Readium [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+[<img src="https://readium.org/assets/logos/readium-logo.png" align="right" width="150">](http://readium.org/)
+
 A list of lists of awesome [Readium](https://readium.org/) resources.
+
+Readium is an open-source foundation dedicated to the development of software, standards and best practices for digital publications.
+
+**Disclaimer:** This list is created for informational purposes only and any links do not constitute an endorsement, recommendation, or favoring by the Readium Foundation.
+
+## Contents
+
+* [Standards](#standards)
+* [Documentation](#documentation)
+* [Publication Servers](#publication-servers)
+* [Publication Viewers](#publication-viewers)
+* [Experiments](#experiments)
 
 ## Standards
 
 The Readium community has developed several standards for publications:
 
-* [Web Publication Manifest](https://readium.org/webpub-manifest/) - specifies a JSON manifest format for distributing publications
-* [Licensed Content Protection](https://readium.org/lcp-specs/) - specifies an open-source DRM scheme for packaged publications
+* [Web Publication Manifest](https://readium.org/webpub-manifest/) - specifies a JSON manifest format for distributing publications on the Web
+* [Licensed Content Protection](https://readium.org/lcp-specs/) - specifies an interoperable DRM scheme for packaged publications
 * [License Status Document](https://readium.org/lcp-specs/) - specifies a JSON document that provides additional controls over a license
+
+## Documentation
+
+* [Architecture](https://readium.org/architecture/) - overview of the architecture of all Readium projects
+* [Locators](https://readium.org/architecture/locators/) - defines a JSON object for pointing into digital publications
+* [Readium CSS](https://readium.org/readium-css/docs/) - defines a set of reference stylesheets for EPUB Reading Systems
 
 ## Publication Servers
 
@@ -26,6 +46,13 @@ These viewers are all compatible with the Readium Web Publication Manifest.
 * [R2 Reader (iOS)](https://github.com/readium/r2-testapp-swift) - an ebook, PDF and comics viewer written in Swift (this is primarily a test app for Readium Mobile projects)
 * [Vivliostyle](https://vivliostyle.org/) - a document and publication viewer written in JS
 * [xbreader](https://github.com/chocolatkey/xbreader) - a manga viewer written in TypeScript
+
+## Experiments
+
+* [webpub-viewer](https://github.com/HadrienGardeur/webpub-viewer) - An `iframe` based navigator for ebooks, written in JS
+* [comics-viewer](https://github.com/HadrienGardeur/comics-viewer) - An `img` based navigator for comics, written in JS
+* [audiobook-player](https://github.com/HadrienGardeur/audiobook-player) - An `audio` based navigator for audiobooks, written in JS
+
 
 ## License
 
