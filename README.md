@@ -1,6 +1,6 @@
 # Awesome Readium [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://readium.org/assets/logos/readium-logo.png" align="right" width="150">](http://readium.org/)
+[<img src="https://readium.org/assets/logos/readium-logo.png" align="right" width="200">](http://readium.org/)
 
 A list of lists of awesome [Readium](https://readium.org/) resources.
 
@@ -14,6 +14,7 @@ Readium is an open-source foundation dedicated to the development of software, s
 * [Documentation](#documentation)
 * [Publication Servers](#publication-servers)
 * [Publication Viewers](#publication-viewers)
+* [Examples](#examples)
 * [Experiments](#experiments)
 
 ## Standards
@@ -47,11 +48,17 @@ These viewers are all compatible with the Readium Web Publication Manifest.
 * [Vivliostyle](https://vivliostyle.org/) - a document and publication viewer written in JS
 * [xbreader](https://github.com/chocolatkey/xbreader) - a manga viewer written in TypeScript
 
+## Examples
+
+* [Animeta! (xbreader)](https://j-novel.club/mc/animeta-volume-1-chapter-1) - First chapter of a manga distributed using RWPM in a fork of xbreader
+* [Readium CSS Documentation (Vivliostyle)](https://vivliostyle.github.io/vivliostyle.js/viewer/vivliostyle-viewer.html#b=https://readium.org/readium-css/docs/manifest.json) - Readium CSS Documentation in Vivliostyle Viewer using RWPM
+* [Tom Sawyer (De Marque)](https://player.cantookaudio.com/aHR0cHM6Ly9hcGkuYXJjaGl2ZWxhYi5vcmcvYm9va3MvdG9tX3Nhd3llcl9saWJyaXZveC9vcGRzX2F1ZGlvX21hbmlmZXN0) - Tom Sawyer as an audiobook published by Librivox using RWPM in De Marque's Audiobook Reader
+
 ## Experiments
 
-* [webpub-viewer](https://github.com/HadrienGardeur/webpub-viewer) - An `iframe` based navigator for ebooks, written in JS
-* [comics-viewer](https://github.com/HadrienGardeur/comics-viewer) - An `img` based navigator for comics, written in JS
-* [audiobook-player](https://github.com/HadrienGardeur/audiobook-player) - An `audio` based navigator for audiobooks, written in JS
+* [webpub-viewer](https://github.com/HadrienGardeur/webpub-viewer) - an `iframe` based navigator for ebooks, written in JS
+* [comics-viewer](https://github.com/HadrienGardeur/comics-viewer) - an `img` based navigator for comics, written in JS
+* [audiobook-player](https://github.com/HadrienGardeur/audiobook-player) - an `audio` based navigator for audiobooks, written in JS
 
 
 ## License
