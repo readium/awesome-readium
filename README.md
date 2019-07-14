@@ -43,8 +43,12 @@ The Readium community has developed several standards for publications:
 These viewers are all compatible with the Readium Web Publication Manifest.
 
 * [Epub.js](https://github.com/futurepress/epub.js/) - an ebook viewer written in JS
-* [R2 Reader (Android)](https://github.com/readium/r2-testapp-kotlin) - an ebook and comics viewer written in Kotlin (this is primarily a test app for Readium Mobile projects)
-* [R2 Reader (iOS)](https://github.com/readium/r2-testapp-swift) - an ebook, PDF and comics viewer written in Swift (this is primarily a test app for Readium Mobile projects)
+* [R2 Reader (Android)](https://github.com/readium/r2-testapp-kotlin) - an ebook and comics viewer written in Kotlin, LCP compliant (this is primarily a test app for Readium Mobile projects)
+* [R2 Reader (iOS)](https://github.com/readium/r2-testapp-swift) - an ebook, PDF and comics viewer written in Swift, LCP compliant (this is primarily a test app for Readium Mobile projects)
+* [PRETNUMERIQUE en Bibliothèque](https://apps.apple.com/ca/app/id1391138546) - an ebook and audiobook reader based on Readium Mobile iOS, LCP compliant.
+* [Bookbeat - audiobooks](https://apps.apple.com/us/app/id1056652614) - an ebook and audiobook reader based on Readium Mobile iOS.
+* [DITA Reader Android](https://play.google.com/store/apps/details?id=com.aferdita.urms.reader) - an ebook reader based on Readium Mobile Android, LCP compliant.
+* [DITA Reader iOS](https://apps.apple.com/us/app/dita-reader/id1274807900) - an ebook reader based on Readium Mobile iOS, LCP compliant.
 * [Vivliostyle](https://vivliostyle.org/) - a document and publication viewer written in JS
 * [xbreader](https://github.com/chocolatkey/xbreader) - a manga viewer written in TypeScript
 
