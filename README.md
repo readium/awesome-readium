@@ -15,7 +15,10 @@ Readium is an open-source foundation dedicated to the development of software, s
 * [Publication Servers](#publication-servers)
 * [Publication Viewers](#publication-viewers)
 * [Desktop Apps](#desktop-apps)
-* [Mobile Apps](#mobile-apps)
+* [Mobile Apps on iOS](#mobile-apps-ios)
+* [Mobile Apps on Android](#mobile-apps-android)
+* [Mobile Test Apps](#mobile-test-apps)
+* [Mobile Apps based on the original Readium SDK](#mobile-apps-sdk)
 * [Examples](#examples)
 * [Experiments](#experiments)
 
@@ -42,7 +45,7 @@ The Readium community has developed several industrial standards for publication
 
 ## Publication Viewers
 
-These open-source viewers are all compatible with the Readium Web Publication Manifest.
+These open-source viewers are compatible with the Readium Web Publication Manifest.
 
 * [Epub.js](https://github.com/futurepress/epub.js/) - an ebook viewer written in JS
 * [Vivliostyle](https://vivliostyle.org/) - a document and publication viewer written in JS
@@ -50,31 +53,53 @@ These open-source viewers are all compatible with the Readium Web Publication Ma
 
 ## Desktop Apps
 
-* [Thorium Reader (Windows / Mac / Linux)](https://www.edrlab.org/software/thorium-reader/) - a free and open-source ebook / audiobook reader developed by EDRLab. Based on Readium Desktop, LCP compliant.
+Desktop Apps based on the Readium Desktop toolkit (in alphabetical order). 
 
-## Mobile Apps
+* [eKitabu Reader (Windows / Mac / Linux)](https://www.ekitabu.com/) - an ebook reader developed by eKitabu, targeting education in Africa.
+* [Thorium Reader (Windows / Mac / Linux)](https://www.edrlab.org/software/thorium-reader/) - a free and open-source ebook / audiobook reader developed by EDRLab; LCP certified.
 
-* [R2 Reader (Android)](https://apps.apple.com/us/app/r2-reader/id1363963230) - the open-source test application for the Readium Mobile Android toolkit; ebook / comics reader written in Kotlin, LCP compliant. [Participate on Github](https://github.com/readium/r2-testapp-kotlin).
-* [R2 Reader (iOS)](https://play.google.com/store/apps/details?id=org.readium.r2reader) - the open-source test application for the Readium Mobile iOS toolkit; ebook / PDF reader written in Swift, LCP compliant. [Participate on Github](https://github.com/readium/r2-testapp-swift).
-* [Bookbeat](https://apps.apple.com/us/app/id1056652614) - an ebook / audiobook reader based on Readium Mobile iOS.
-* [DITA Reader Android](https://play.google.com/store/apps/details?id=com.aferdita.urms.reader) - an ebook reader based on Readium Mobile Android, LCP compliant.
-* [DITA Reader iOS](https://apps.apple.com/us/app/dita-reader/id1274807900) - an ebook reader based on Readium Mobile iOS, LCP compliant.
-* [PRETNUMERIQUE en Bibliothèque](https://apps.apple.com/ca/app/id1391138546) - an ebook / audiobook reader based on Readium Mobile iOS, LCP compliant.
-* [desLibris (iOS / Android)](http://www2.canadianelectroniclibrary.ca/) - an ebook / audiobook reader published by the Canadian Electronic Library, based on Readium Mobile iOS / Android, LCP compliant.
-* [Allbok (iOS)](https://apps.apple.com/no/app/allbok/id1485392740) - an ebook / audiobook reader developed by Bokbasen for Norwegian public libraries. Based on Readium Mobile iOS, LCP compliant.
-* [Lisa Reader (iOS / Android)](https://lis-a.fr/fr/lisa/) - an ebook reader published by Art Book Magazine for French readers. Based on the original Readium SDK, LCP compliant.
-* [Baobab Reader (iOS)](https://apps.apple.com/fr/app/baobab-app/id1364023895) - an ebook reader published by Dilicom for French public libraries. Based on the original Readium SDK, LCP compliant.
-* [Baobab Reader (Android)](https://play.google.com/store/apps/details?id=com.baobabapp.baobab) - an ebook reader published by Dilicom for French public libraries. Based on the original Readium SDK, LCP compliant.
-* [LEA Reader (iOS / Android)](https://www.adilibre.fr/lea-reader/) - an ebook reader published by Adilibre for French readers. Based on the original Readium SDK, LCP compliant.
-* [Brio Reader (iOS)](https://apps.apple.com/fr/app/brio-reader/id1475894718) - an ebook / PDF / audiobook reader published by by Eden Livres for French readers. Based on Readium Mobile iOS, LCP compliant.
-* [Bibblix (iOS)](http://http://bibblix.se/) - an ebook reader targeting 6-12 years old patrons, developed by the Stockholm Public Library in Sweden. Based on Readium Mobile iOS, LCP compliant.
-* [Glassboxx (iOS)](https://apps.apple.com/gb/app/glassboxx/id1464705712) - an ebook / audiobook reader published by Firsty Group for its [Glassboxx platform](https://glassboxx.co.uk/). Based on Readium Mobile iOS, LCP compliant.
-* [Glassboxx (Android)](https://play.google.com/store/apps/details?id=uk.co.firstygroup.glassboxx) - an ebook / audiobook reader published by Firsty Group for its Glassboxx platform. Based on Readium Mobile Android, LCP compliant.
-* [Ulverscroft (iOS)](https://apps.apple.com/gb/app/ulibrary/id977511203) - an audiobook reader published by the Ulverscroft Group for the [Ulverscroft Library](https://llc.ulverscroftulibrary.com/). Based on Readium Mobile iOS, LCP compliant.
-* [Ulverscroft (Android)](https://play.google.com/store/apps/details?id=ulibrary.ulverscroftulibrary.co.uk.ulibrary) - an audiobook reader published by the Ulverscroft Group for the Ulverscroft Library. Based on Readium Mobile Android, LCP compliant.
-* [Inspirata ebooks (iOS / Android)](https://https://endao.co/) - an ebook reader targeting Christian readers in Hong Kong, developed by Endao.co. Based on Readium Mobile iOS / Android, LCP compliant.
-* [Shanghai Library Reader (iOS / Android)](http://www.library.sh.cn/web/index.html) - an ebook reader developed by the Shanghai Library for its patrons. Based on Readium Mobile iOS / Android, LCP compliant.
+## Mobile Apps iOS
 
+Mobile Apps based on the Readium Mobile iOS toolkit (in alphabetical order). 
+
+* [Allbok (iOS)](https://apps.apple.com/no/app/allbok/id1485392740) - an ebook / audiobook reader developed by Bokbasen for Norwegian public libraries; LCP certified.
+* [Brio Reader (iOS)](https://apps.apple.com/fr/app/brio-reader/id1475894718) - an ebook / PDF / audiobook reader published by by Eden Livres for French readers; LCP certified.
+* [Bibblix (iOS)](http://http://bibblix.se/) - an ebook reader targeting 6-12 years old patrons, developed by the Stockholm Public Library in Sweden; LCP certified.
+* [Bookbeat](https://apps.apple.com/us/app/id1056652614) - an ebook / audiobook reader developed by Bookbeat for its users.
+* [desLibris (iOS)](http://www2.canadianelectroniclibrary.ca/) - an ebook / audiobook reader published by the Canadian Electronic Library for its users; LCP certified.
+* [DITA Reader iOS](https://apps.apple.com/us/app/dita-reader/id1274807900) - a generic ebook reader developed by DITA; LCP certified.
+* [Glassboxx (iOS)](https://apps.apple.com/gb/app/glassboxx/id1464705712) - an ebook / audiobook reader published by Firsty Group for its [Glassboxx platform](https://glassboxx.co.uk/); LCP certified.
+* [Inspirata ebooks (iOS)](https://https://endao.co/) - an ebook reader targeting Christian readers in Hong Kong, developed by Endao.co; LCP certified.
+* [PRETNUMERIQUE en Bibliothèque](https://apps.apple.com/ca/app/id1391138546) - an ebook / audiobook reader published by Pretnumerique.ca for its patrons; LCP certified.
+* [Shanghai Library Reader (iOS)](http://www.library.sh.cn/web/index.html) - an ebook reader developed by the Shanghai Library for its patrons; LCP certified.
+* [Ulverscroft (iOS)](https://apps.apple.com/gb/app/ulibrary/id977511203) - an audiobook reader published by the Ulverscroft Group for the [Ulverscroft Library](https://llc.ulverscroftulibrary.com/); LCP certified.
+
+## Mobile Apps Android
+
+Mobile Apps based on the Readium Mobile Android toolkit (in alphabetical order). 
+
+* [Allbok (Android)](https://play.google.com/store/apps/details?id=no.bokbasen.allbok) - an ebook / audiobook reader developed by Bokbasen for Norwegian public libraries; LCP certified.
+* [desLibris (Android)](http://www2.canadianelectroniclibrary.ca/) - an ebook / audiobook reader published by the Canadian Electronic Library for it users; LCP certified.
+* [DITA Reader Android](https://play.google.com/store/apps/details?id=com.aferdita.urms.reader) - a generic ebook reader developed by DITA; LCP certified.
+* [Glassboxx (Android)](https://play.google.com/store/apps/details?id=uk.co.firstygroup.glassboxx) - an ebook / audiobook reader published by Firsty Group for its [Glassboxx platform](https://glassboxx.co.uk/); LCP certified.
+* [Inspirata ebooks (Android)](https://https://endao.co/) - an ebook reader targeting Christian readers in Hong Kong, developed by Endao.co; LCP certified.
+* [Shanghai Library Reader (Android)](http://www.library.sh.cn/web/index.html) - an ebook reader developed by the Shanghai Library for its patrons; LCP certified.
+* [Ulverscroft (Android)](https://play.google.com/store/apps/details?id=ulibrary.ulverscroftulibrary.co.uk.ulibrary) - an audiobook reader published by the Ulverscroft Group for the [Ulverscroft Library](https://llc.ulverscroftulibrary.com/); LCP certified.
+
+## Mobile Apps SDK
+
+Mobile Apps based on the original Readium SDK. 
+
+* [Lisa Reader (iOS / Android)](https://lis-a.fr/fr/lisa/) - an ebook reader published by Art Book Magazine for French readers. Based on the original Readium SDK, LCP compliant. [iOS version](https://apps.apple.com/fr/app/lis-a/id1096168122), [Android version](https://play.google.com/store/apps/details?id=com.artbookmagazine.lisa).
+* [Baobab Reader (iOS / Android)](https://baobabapp.com/) - an ebook reader published by Dilicom for French public libraries: LCP compliant. [iOS version](https://apps.apple.com/fr/app/baobab-app/id1364023895), [Android version](https://play.google.com/store/apps/details?id=com.baobabapp.baobab).
+* [LEA Reader (iOS / Android)](https://www.adilibre.fr/lea-reader/) - an ebook reader published by Adilibre for French readers; LCP compliant. [iOS version](https://apps.apple.com/fr/app/lea-reader/id1313873614), [Android version](https://play.google.com/store/apps/details?id=com.adilibre.leareader)
+
+## Mobile Test Apps 
+
+The open-source test application for the Readium Mobile Android toolkit.
+
+* [R2 Reader (Android)](https://apps.apple.com/us/app/r2-reader/id1363963230) -  ebook / comics reader written in Kotlin, LCP compliant. [Participate on Github](https://github.com/readium/r2-testapp-kotlin).
+* [R2 Reader (iOS)](https://play.google.com/store/apps/details?id=org.readium.r2reader) - ebook / PDF reader written in Swift; LCP compliant. [Participate on Github](https://github.com/readium/r2-testapp-swift).
 
 ## Examples
 
