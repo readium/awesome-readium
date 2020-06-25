@@ -81,6 +81,8 @@ Mobile Apps based on the Readium Mobile iOS toolkit (in alphabetical order).
 * [PRETNUMERIQUE en Bibliothèque](https://apps.apple.com/ca/app/id1391138546) - an ebook / audiobook reader published by Pretnumerique.ca for its patrons; LCP certified.
 * [Shanghai Library Reader (iOS)](http://www.library.sh.cn/web/index.html) - an ebook reader developed by the Shanghai Library for its patrons; LCP certified.
 * [Ulverscroft (iOS)](https://apps.apple.com/gb/app/ulibrary/id977511203) - an audiobook reader published by the Ulverscroft Group for the [Ulverscroft Library](https://llc.ulverscroftulibrary.com/); LCP certified.
+* [SUSS Reader (iOS)](https://apps.apple.com/sg/app/suss-reader-for-ebooks-epubs/id1477574366) - an EPUB / PDF reader for Interactive Study Guides published by the [Singapore University of Social Sciences](https://www.suss.edu.sg/).
+
 
 ## Mobile Apps Android
 
@@ -93,6 +95,8 @@ Mobile Apps based on the Readium Mobile Android toolkit (in alphabetical order).
 * [Inspirata ebooks (Android)](https://https://endao.co/) - an ebook reader targeting Christian readers in Hong Kong, developed by Endao.co; LCP certified.
 * [Shanghai Library Reader (Android)](http://www.library.sh.cn/web/index.html) - an ebook reader developed by the Shanghai Library for its patrons; LCP certified.
 * [Ulverscroft (Android)](https://play.google.com/store/apps/details?id=ulibrary.ulverscroftulibrary.co.uk.ulibrary) - an audiobook reader published by the Ulverscroft Group for the [Ulverscroft Library](https://llc.ulverscroftulibrary.com/); LCP certified.
+ [SUSS Reader (Android)](https://play.google.com/store/apps/details?id=sg.edu.suss.etp.sreader2) - an EPUB / PDF reader for Interactive Study Guides published by the [Singapore University of Social Sciences](https://www.suss.edu.sg/).
+
 
 ## Mobile Test Apps 
 
