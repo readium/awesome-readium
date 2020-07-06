@@ -75,10 +75,10 @@ Mobile Apps based on the Readium Mobile iOS toolkit (in alphabetical order).
 * [Biblio Library (iOS)](https://apps.apple.com/us/app/biblio-library/id1286685079) - an ebook / audiobook reader developed by Axiell Media for public libraries in Sweden and Finland; LCP compliant.
 * [Brio Reader (iOS)](https://apps.apple.com/fr/app/brio-reader/id1475894718) - an ebook / PDF / audiobook reader published by by Eden Livres for French readers; LCP certified.
 * [Bookbeat](https://apps.apple.com/us/app/id1056652614) - an ebook / audiobook reader developed by Bookbeat for its users.
-* [DITA Reader iOS](https://apps.apple.com/us/app/dita-reader/id1274807900) - an ebook / PDF / audiobook reader developed by DITA; LCP certified.
+* [DITA Reader (iOS)](https://apps.apple.com/us/app/dita-reader/id1274807900) - an ebook / PDF / audiobook reader developed by DITA; LCP certified.
 * [Glassboxx (iOS)](https://apps.apple.com/gb/app/glassboxx/id1464705712) - an ebook / audiobook reader published by Firsty Group for its [Glassboxx platform](https://glassboxx.co.uk/); LCP certified.
 * [Inspirata ebooks (iOS)](https://https://endao.co/) - an ebook reader targeting Christian readers in Hong Kong, developed by Endao.co; LCP certified.
-* [PRETNUMERIQUE en Bibliothèque](https://apps.apple.com/ca/app/id1391138546) - an ebook / audiobook reader published by Pretnumerique.ca for its patrons; LCP certified.
+* [PretNumerique (iOS)](https://apps.apple.com/ca/app/id1391138546) - an ebook / audiobook reader published by Pretnumerique.ca for its patrons; LCP certified.
 * [Shanghai Library Reader (iOS)](http://www.library.sh.cn/web/index.html) - an ebook reader developed by the Shanghai Library for its patrons; LCP certified.
 * [Ulverscroft (iOS)](https://apps.apple.com/gb/app/ulibrary/id977511203) - an audiobook reader published by the Ulverscroft Group for the [Ulverscroft Library](https://llc.ulverscroftulibrary.com/); LCP certified.
 * [SUSS Reader (iOS)](https://apps.apple.com/sg/app/suss-reader-for-ebooks-epubs/id1477574366) - an EPUB / PDF reader for Interactive Study Guides published by the [Singapore University of Social Sciences](https://www.suss.edu.sg/).
@@ -90,9 +90,11 @@ Mobile Apps based on the Readium Mobile Android toolkit (in alphabetical order).
 
 * [Allbok (Android)](https://play.google.com/store/apps/details?id=no.bokbasen.allbok) - an ebook / audiobook reader developed by Bokbasen for Norwegian public libraries; LCP certified.
 * [Biblio Library (Android)](https://play.google.com/store/apps/details?id=com.Axiellmedia.LibraryApp) - an ebook / audiobook reader developed by Axiell Media for public libraries in Sweden and Finland; LCP compliant.
-* [DITA Reader Android](https://play.google.com/store/apps/details?id=com.aferdita.urms.reader) - an ebook / PDF / audiobook reader developed by DITA; LCP certified.
+* [Brio Reader (Android)](https://play.google.com/store/apps/details?id=com.eden.brioreader) - an ebook / PDF / audiobook reader published by by Eden Livres for French readers; LCP certified.
+* [DITA Reader (Android)](https://play.google.com/store/apps/details?id=com.aferdita.urms.reader) - an ebook / PDF / audiobook reader developed by DITA; LCP certified.
 * [Glassboxx (Android)](https://play.google.com/store/apps/details?id=uk.co.firstygroup.glassboxx) - an ebook / audiobook reader published by Firsty Group for its [Glassboxx platform](https://glassboxx.co.uk/); LCP certified.
 * [Inspirata ebooks (Android)](https://https://endao.co/) - an ebook reader targeting Christian readers in Hong Kong, developed by Endao.co; LCP certified.
+* [PretNumerique (Android)](https://play.google.com/store/apps/details?id=com.bibliopresto.pretnumerique) - an ebook / audiobook reader published by Pretnumerique.ca for its patrons; LCP certified.
 * [Shanghai Library Reader (Android)](http://www.library.sh.cn/web/index.html) - an ebook reader developed by the Shanghai Library for its patrons; LCP certified.
 * [Ulverscroft (Android)](https://play.google.com/store/apps/details?id=ulibrary.ulverscroftulibrary.co.uk.ulibrary) - an audiobook reader published by the Ulverscroft Group for the [Ulverscroft Library](https://llc.ulverscroftulibrary.com/); LCP certified.
  [SUSS Reader (Android)](https://play.google.com/store/apps/details?id=sg.edu.suss.etp.sreader2) - an EPUB / PDF reader for Interactive Study Guides published by the [Singapore University of Social Sciences](https://www.suss.edu.sg/).
