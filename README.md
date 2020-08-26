@@ -70,6 +70,7 @@ Desktop Apps based on the Readium Desktop toolkit (in alphabetical order).
 
 Mobile Apps based on the Readium Mobile iOS toolkit (in alphabetical order). 
 
+* [Aldiko (iOS)](https://testflight.apple.com/join/2aHDilzl) - an ebook, audiobook and comics reader developed by De Marque (LCP certified).
 * [Allbok (iOS)](https://apps.apple.com/no/app/allbok/id1485392740) - an ebook / audiobook reader developed by Bokbasen for Norwegian public libraries; LCP certified.
 * [Bibblix (iOS)](http://http://bibblix.se/) - an ebook reader targeting 6-12 years old patrons, developed by the Stockholm Public Library in Sweden; LCP certified.
 * [Biblio Library (iOS)](https://apps.apple.com/us/app/biblio-library/id1286685079) - an ebook / audiobook reader developed by Axiell Media for public libraries in Sweden and Finland; LCP compliant.
@@ -89,6 +90,7 @@ Mobile Apps based on the Readium Mobile iOS toolkit (in alphabetical order).
 
 Mobile Apps based on the Readium Mobile Android toolkit (in alphabetical order). 
 
+* [Aldiko (Android)](https://play.google.com/apps/testing/com.aldiko.android) - an ebook, audiobook and comics reader developed by De Marque (LCP certified).
 * [Allbok (Android)](https://play.google.com/store/apps/details?id=no.bokbasen.allbok) - an ebook / audiobook reader developed by Bokbasen for Norwegian public libraries; LCP certified.
 * [Biblio Library (Android)](https://play.google.com/store/apps/details?id=com.Axiellmedia.LibraryApp) - an ebook / audiobook reader developed by Axiell Media for public libraries in Sweden and Finland; LCP compliant.
 * [Brio Reader (Android)](https://play.google.com/store/apps/details?id=com.eden.brioreader) - an ebook / PDF / audiobook reader published by by Eden Livres for French readers; LCP certified.
