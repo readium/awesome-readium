@@ -115,9 +115,10 @@ The open-source test application for the Readium Mobile Android toolkit.
 
 Mobile Apps based on the legacy Readium SDK. 
 
-* [Lisa Reader (iOS / Android)](https://lis-a.fr/fr/lisa/) - an ebook reader published by Art Book Magazine for French readers. Based on the original Readium SDK, LCP compliant. [iOS version](https://apps.apple.com/fr/app/lis-a/id1096168122), [Android version](https://play.google.com/store/apps/details?id=com.artbookmagazine.lisa).
+* [Adobe Digital Editions (iOS / Android)](https://www.adobe.com/solutions/ebook/digital-editions.html) - an ebook reader published by Adobe. Partially based on the original Readium SDK. [iOS version](https://apps.apple.com/us/app/adobe-digital-editions/id952977781), [Android version](https://play.google.com/store/apps/details?id=com.adobe.digitaleditions).
 * [Baobab Reader (iOS / Android)](https://baobabapp.com/) - an ebook reader published by Dilicom for French public libraries: LCP compliant. [iOS version](https://apps.apple.com/fr/app/baobab-app/id1364023895), [Android version](https://play.google.com/store/apps/details?id=com.baobabapp.baobab).
 * [LEA Reader (iOS / Android)](https://www.adilibre.fr/lea-reader/) - an ebook reader published by Adilibre for French readers; LCP compliant. [iOS version](https://apps.apple.com/fr/app/lea-reader/id1313873614), [Android version](https://play.google.com/store/apps/details?id=com.adilibre.leareader)
+* [Lisa Reader (iOS / Android)](https://lis-a.fr/fr/lisa/) - an ebook reader published by Art Book Magazine for French readers. Based on the original Readium SDK, LCP compliant. [iOS version](https://apps.apple.com/fr/app/lis-a/id1096168122), [Android version](https://play.google.com/store/apps/details?id=com.artbookmagazine.lisa).
 
 ## Experiments
 
