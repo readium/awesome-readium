@@ -12,13 +12,13 @@ Readium is an open-source foundation dedicated to the development of software, s
 
 * [Standards](#standards)
 * [Documentation](#documentation)
+* [Desktop Apps](#desktop-apps)
+* [iOS](#ios)
+* [Android](#android)
+* [Mobile Test Apps](#mobile-test-apps)
 * [Publication Servers](#publication-servers)
 * [Publication Viewers](#publication-viewers)
-* [Examples of online publications](#examples)
-* [Desktop Apps](#desktop-apps)
-* [Mobile Apps on iOS](#mobile-apps-ios)
-* [Mobile Apps on Android](#mobile-apps-android)
-* [Mobile Test Apps](#mobile-test-apps)
+* [Examples of web publications](#examples)
 * [Mobile Apps based on the legacy Readium SDK](#mobile-apps-sdk)
 * [Experiments](#experiments)
 
@@ -36,28 +36,6 @@ The Readium community has developed several industrial standards for publication
 * [Locators](https://readium.org/architecture/locators/) - defines a JSON object for pointing into digital publications
 * [Readium CSS](https://readium.org/readium-css/docs/) - defines a set of reference stylesheets for EPUB Reading Systems
 
-## Publication Servers
-
-[Publications servers](https://readium.org/architecture/server/) are a key component in [Readium's architecture](https://readium.org/architecture/). These servers can output a Readium Web Publication Manifest.
-
-* [r2-streamer-js](https://github.com/readium/r2-streamer-js) - written in TypeScript using Node.js
-* [r2-streamer-go](https://github.com/readium/r2-streamer-go) - written in Go
-
-## Publication Viewers
-
-Open source Web viewers compatible with the Readium Web Publication Manifest.
-
-* [Epub.js](https://github.com/futurepress/epub.js/) - an ebook viewer written in JS
-* [Vivliostyle](https://github.com/vivliostyle/vivliostyle.js) - a document and publication viewer written in JS
-* [xbreader](https://github.com/chocolatkey/xbreader) - a manga viewer written in TypeScript
-
-## Examples
-
-* [Animeta! (xbreader)](https://j-novel.club/mc/animeta-volume-1-chapter-1) - first chapter of a manga distributed using RWPM (Readium Web Publication Manifest) in a fork of xbreader.
-* [Herland (Jellybooks)](https://www.jellybooks.com/cloud_reader/books/herland) - a classic distributed using RWPM in Jellybooks' take on Readium Web.
-* [Readium CSS Documentation (Vivliostyle)](https://vivliostyle.github.io/vivliostyle.js/viewer/vivliostyle-viewer.html#b=https://readium.org/readium-css/docs/manifest.json) - Readium CSS documentation in Vivliostyle Viewer using RWPM.
-* [Tom Sawyer (De Marque)](https://player.cantookaudio.com/aHR0cHM6Ly9hcGkuYXJjaGl2ZWxhYi5vcmcvYm9va3MvdG9tX3Nhd3llcl9saWJyaXZveC9vcGRzX2F1ZGlvX21hbmlmZXN0) - Tom Sawyer as an audiobook published by Librivox using RWPM in De Marque's Audiobook Reader.
-
 
 ## Desktop Apps
 
@@ -66,7 +44,7 @@ Desktop Apps based on the Readium Desktop toolkit (in alphabetical order).
 * [eKitabu Reader (Windows / Mac / Linux)](https://www.ekitabu.com/) - an ebook reader developed by eKitabu, targeting education in Africa.
 * [Thorium Reader (Windows / Mac / Linux)](https://www.edrlab.org/software/thorium-reader/) - a free and open-source ebook / audiobook reader developed by EDRLab; LCP certified.
 
-## Mobile Apps iOS
+## iOS & iPadOS
 
 Mobile Apps based on the Readium Mobile iOS toolkit (in alphabetical order). 
 
@@ -86,7 +64,7 @@ Mobile Apps based on the Readium Mobile iOS toolkit (in alphabetical order).
 * [SUSS Reader (iOS)](https://apps.apple.com/sg/app/suss-reader-for-ebooks-epubs/id1477574366) - an EPUB / PDF reader for Interactive Study Guides published by the [Singapore University of Social Sciences](https://www.suss.edu.sg/).
 
 
-## Mobile Apps Android
+## Android & Chrome OS
 
 Mobile Apps based on the Readium Mobile Android toolkit (in alphabetical order). 
 
@@ -110,6 +88,28 @@ The open-source test application for the Readium Mobile Android toolkit.
 
 * [R2 Reader (Android)](https://play.google.com/apps/testing/org.readium.r2reader) -  ebook / comics reader written in Kotlin, LCP compliant. [Participate on Github](https://github.com/readium/r2-testapp-kotlin).
 * [R2 Reader (iOS)](https://testflight.apple.com/join/lYEMEfBr) - ebook / PDF reader written in Swift; LCP compliant. [Participate on Github](https://github.com/readium/r2-testapp-swift).
+
+## Publication Servers
+
+[Publications servers](https://readium.org/architecture/server/) are a key component in [Readium's architecture](https://readium.org/architecture/). These servers can output a Readium Web Publication Manifest.
+
+* [r2-streamer-js](https://github.com/readium/r2-streamer-js) - written in TypeScript using Node.js
+* [r2-streamer-go](https://github.com/readium/r2-streamer-go) - written in Go
+
+## Publication Viewers
+
+Open source Web viewers compatible with the Readium Web Publication Manifest.
+
+* [Epub.js](https://github.com/futurepress/epub.js/) - an ebook viewer written in JS
+* [Vivliostyle](https://github.com/vivliostyle/vivliostyle.js) - a document and publication viewer written in JS
+* [xbreader](https://github.com/chocolatkey/xbreader) - a manga viewer written in TypeScript
+
+## Examples
+
+* [Animeta! (xbreader)](https://j-novel.club/mc/animeta-volume-1-chapter-1) - first chapter of a manga distributed using RWPM (Readium Web Publication Manifest) in a fork of xbreader.
+* [Herland (Jellybooks)](https://www.jellybooks.com/cloud_reader/books/herland) - a classic distributed using RWPM in Jellybooks' take on Readium Web.
+* [Readium CSS Documentation (Vivliostyle)](https://vivliostyle.github.io/vivliostyle.js/viewer/vivliostyle-viewer.html#b=https://readium.org/readium-css/docs/manifest.json) - Readium CSS documentation in Vivliostyle Viewer using RWPM.
+* [Tom Sawyer (De Marque)](https://player.cantookaudio.com/aHR0cHM6Ly9hcGkuYXJjaGl2ZWxhYi5vcmcvYm9va3MvdG9tX3Nhd3llcl9saWJyaXZveC9vcGRzX2F1ZGlvX21hbmlmZXN0) - Tom Sawyer as an audiobook published by Librivox using RWPM in De Marque's Audiobook Reader.
 
 ## Mobile Apps based on the legacy Readium SDK
 
