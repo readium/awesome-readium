@@ -41,8 +41,11 @@ The Readium community has developed several industrial standards for publication
 
 Desktop Apps based on the Readium Desktop toolkit (in alphabetical order). 
 
-* [eKitabu Reader (Windows / Mac / Linux)](https://www.ekitabu.com/) - an ebook reader developed by eKitabu, targeting education in Africa.
-* [Thorium Reader (Windows / Mac / Linux)](https://www.edrlab.org/software/thorium-reader/) - a free and open-source ebook / audiobook reader developed by EDRLab; LCP certified.
+* [eKitabu Reader (Windows / MacOS / Linux)](https://www.ekitabu.com/) - an ebook reader developed by eKitabu, targeting education in Africa.
+* [Thorium Reader (Windows / MacOS / Linux)](https://www.edrlab.org/software/thorium-reader/) - a free and open-source ebook / audiobook reader developed by EDRLab; LCP certified.
+
+Desktop Apps using Readium JS:
+* [Wiley eText (MacOS)](https://apps.apple.com/fr/app/wiley-etext/id1523684519) - an education reader developed by Wiley Publishing.
 
 ## iOS & iPadOS
 
