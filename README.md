@@ -65,7 +65,7 @@ Mobile Apps based on the Readium Mobile iOS toolkit (in alphabetical order).
 * [Shanghai Library Reader (iOS)](http://www.library.sh.cn/web/index.html) - an ebook reader developed by the Shanghai Library for its patrons; LCP certified.
 * [Ulverscroft (iOS)](https://apps.apple.com/gb/app/ulibrary/id977511203) - an audiobook reader published by the Ulverscroft Group for the [Ulverscroft Library](https://llc.ulverscroftulibrary.com/); LCP certified.
 * [SUSS Reader (iOS)](https://apps.apple.com/sg/app/suss-reader-for-ebooks-epubs/id1477574366) - an EPUB / PDF reader for Interactive Study Guides published by the [Singapore University of Social Sciences](https://www.suss.edu.sg/).
-
+* [NABU Reader (iOS)](https://apps.apple.com/fr/app/nabu-org/id1483607930) - an EPUB reader for children in Rwanda and Kenya, published by [NABU.org](https://thenewpublishingstandard.com/2020/10/10/nabu-digital-reading-app-launches-in-kenya-with-free-content-in-english-and-kiswahili/); LCP certified. 
 
 ## Android & Chrome OS
 
@@ -83,6 +83,7 @@ Mobile Apps based on the Readium Mobile Android toolkit (in alphabetical order).
 * [Shanghai Library Reader (Android)](http://www.library.sh.cn/web/index.html) - an ebook reader developed by the Shanghai Library for its patrons; LCP certified.
 * [Ulverscroft (Android)](https://play.google.com/store/apps/details?id=ulibrary.ulverscroftulibrary.co.uk.ulibrary) - an audiobook reader published by the Ulverscroft Group for the [Ulverscroft Library](https://llc.ulverscroftulibrary.com/); LCP certified.
 * [SUSS Reader (Android)](https://play.google.com/store/apps/details?id=sg.edu.suss.etp.sreader2) - an EPUB / PDF reader for Interactive Study Guides published by the [Singapore University of Social Sciences](https://www.suss.edu.sg/).
+* [NABU Reader (Android)](https://play.google.com/store/apps/details?id=org.libraryforall.simplified&hl=en_US&gl=US) - an EPUB reader for children in Rwanda and Kenya, published by [NABU.org](https://thenewpublishingstandard.com/2020/10/10/nabu-digital-reading-app-launches-in-kenya-with-free-content-in-english-and-kiswahili/); LCP certified. 
 
 
 ## Mobile Test Apps 
