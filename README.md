@@ -88,10 +88,10 @@ Mobile Apps based on the Readium Mobile Android toolkit (in alphabetical order).
 
 ## Mobile Test Apps 
 
-The open-source test application for the Readium Mobile Android toolkit.
+The open-source test application for the Readium Mobile Android toolkit. These apps are LCP compliant, but in "test" mode only. 
 
-* [R2 Reader (Android)](https://play.google.com/apps/testing/org.readium.r2reader) -  ebook / comics reader written in Kotlin, LCP compliant. [Participate on Github](https://github.com/readium/r2-testapp-kotlin).
-* [R2 Reader (iOS)](https://testflight.apple.com/join/lYEMEfBr) - ebook / PDF reader written in Swift; LCP compliant. [Participate on Github](https://github.com/readium/r2-testapp-swift).
+* [R2 Reader (Android)](https://play.google.com/apps/testing/org.readium.r2reader) -  ebook / comics reader written in Kotlin. [Participate on Github](https://github.com/readium/r2-testapp-kotlin).
+* [R2 Reader (iOS)](https://testflight.apple.com/join/lYEMEfBr) - ebook / PDF reader written in Swift. [Participate on Github](https://github.com/readium/r2-testapp-swift).
 
 ## Publication Servers
 
