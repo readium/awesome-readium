@@ -51,40 +51,40 @@ Desktop Apps using Readium JS:
 
 Mobile Apps based on the Readium Mobile iOS toolkit (in alphabetical order). 
 
-* [Aldiko (iOS)](https://testflight.apple.com/join/2aHDilzl) - an ebook, audiobook and comics reader developed by De Marque (LCP certified).
+* [Aldiko (iOS)](https://testflight.apple.com/join/2aHDilzl) - an ebook, audiobook and comics reader developed by De Marque; LCP certified.
 * [Allbok (iOS)](https://apps.apple.com/no/app/allbok/id1485392740) - an ebook / audiobook reader developed by Bokbasen for Norwegian public libraries; LCP certified.
 * [Bibblix (iOS)](http://http://bibblix.se/) - an ebook reader targeting 6-12 years old patrons, developed by the Stockholm Public Library in Sweden; LCP certified.
 * [Biblio Library (iOS)](https://apps.apple.com/us/app/biblio-library/id1286685079) - an ebook / audiobook reader developed by Axiell Media for public libraries in Sweden and Finland; LCP compliant.
 * [Brio Reader (iOS)](https://apps.apple.com/fr/app/brio-reader/id1475894718) - an ebook / PDF / audiobook reader published by by Eden Livres for French readers; LCP certified.
 * [Bookbeat](https://apps.apple.com/us/app/id1056652614) - an ebook / audiobook reader developed by Bookbeat for its users.
 * [DITA Reader (iOS)](https://apps.apple.com/us/app/dita-reader/id1274807900) - an ebook / PDF / audiobook reader developed by DITA; LCP certified.
+* [Gantec EasyReadz (iOS)](https://apps.apple.com/us/app/easyreadz/id1527785244) - an EPUB / PDF reader with direct access to a catalog of ebooks in English (ebooks2go), published by [Gantec publishing](https://www.gantecpublishing.com); side-loading available; LCP certified.
 * [Glassboxx (iOS)](https://apps.apple.com/gb/app/glassboxx/id1464705712) - an ebook / audiobook reader published by Firsty Group for its [Glassboxx platform](https://glassboxx.co.uk/); LCP certified.
 * [Inspirata ebooks (iOS)](https://https://endao.co/) - an ebook reader targeting Christian readers in Hong Kong, developed by Endao.co; LCP certified.
+* [NABU Reader (iOS)](https://apps.apple.com/fr/app/nabu-org/id1483607930) - an EPUB reader for children in Rwanda and Kenya, published by [NABU.org](https://thenewpublishingstandard.com/2020/10/10/nabu-digital-reading-app-launches-in-kenya-with-free-content-in-english-and-kiswahili/); LCP certified. 
 * [NetGalley Shelf (iOS)](https://apps.apple.com/us/app/netgalley-shelf/id1499581600) - NetGalley helps publishers and authors promote digital review copies and audiobooks to book advocates and industry professionals.
 * [PretNumerique (iOS)](https://apps.apple.com/ca/app/id1391138546) - an ebook / audiobook reader published by Pretnumerique.ca for its patrons; LCP certified.
-* [Shanghai Library Reader (iOS)](http://www.library.sh.cn/web/index.html) - an ebook reader developed by the Shanghai Library for its patrons; LCP certified.
-* [Ulverscroft (iOS)](https://apps.apple.com/gb/app/ulibrary/id977511203) - an audiobook reader published by the Ulverscroft Group for the [Ulverscroft Library](https://llc.ulverscroftulibrary.com/); LCP certified.
+* [Shanghai Library Reader (iOS)](http://www.library.sh.cn/web/index.html) - an EPUB reader developed by the Shanghai Library for its patrons; LCP certified.
 * [SUSS Reader (iOS)](https://apps.apple.com/sg/app/suss-reader-for-ebooks-epubs/id1477574366) - an EPUB / PDF reader for Interactive Study Guides published by the [Singapore University of Social Sciences](https://www.suss.edu.sg/).
-* [NABU Reader (iOS)](https://apps.apple.com/fr/app/nabu-org/id1483607930) - an EPUB reader for children in Rwanda and Kenya, published by [NABU.org](https://thenewpublishingstandard.com/2020/10/10/nabu-digital-reading-app-launches-in-kenya-with-free-content-in-english-and-kiswahili/); LCP certified. 
+* [Ulverscroft (iOS)](https://apps.apple.com/gb/app/ulibrary/id977511203) - an audiobook reader published by the Ulverscroft Group for the [Ulverscroft Library](https://llc.ulverscroftulibrary.com/); LCP certified.
 
 ## Android & Chrome OS
 
 Mobile Apps based on the Readium Mobile Android toolkit (in alphabetical order). 
 
-* [Aldiko (Android)](https://play.google.com/apps/testing/com.aldiko.android) - an ebook, audiobook and comics reader developed by De Marque (LCP certified).
+* [Aldiko (Android)](https://play.google.com/apps/testing/com.aldiko.android) - an ebook, audiobook and comics reader developed by De Marque; LCP certified.
 * [Allbok (Android)](https://play.google.com/store/apps/details?id=no.bokbasen.allbok) - an ebook / audiobook reader developed by Bokbasen for Norwegian public libraries; LCP certified.
 * [Biblio Library (Android)](https://play.google.com/store/apps/details?id=com.Axiellmedia.LibraryApp) - an ebook / audiobook reader developed by Axiell Media for public libraries in Sweden and Finland; LCP compliant.
 * [Brio Reader (Android)](https://play.google.com/store/apps/details?id=com.eden.brioreader) - an ebook / PDF / audiobook reader published by by Eden Livres for French readers; LCP certified.
 * [DITA Reader (Android)](https://play.google.com/store/apps/details?id=com.aferdita.urms.reader) - an ebook / PDF / audiobook reader developed by DITA; LCP certified.
 * [Glassboxx (Android)](https://play.google.com/store/apps/details?id=uk.co.firstygroup.glassboxx) - an ebook / audiobook reader published by Firsty Group for its [Glassboxx platform](https://glassboxx.co.uk/); LCP certified.
 * [Inspirata ebooks (Android)](https://https://endao.co/) - an ebook reader targeting Christian readers in Hong Kong, developed by Endao.co; LCP certified.
+* [NABU Reader (Android)](https://play.google.com/store/apps/details?id=org.libraryforall.simplified&hl=en_US&gl=US) - an EPUB reader for children in Rwanda and Kenya, published by [NABU.org](https://thenewpublishingstandard.com/2020/10/10/nabu-digital-reading-app-launches-in-kenya-with-free-content-in-english-and-kiswahili/); LCP certified. 
 * [NetGalley Shelf (Android)](https://play.google.com/store/apps/details?id=com.netgalley.shelf&hl=en) - NetGalley helps publishers and authors promote digital review copies and audiobooks to book advocates and industry professionals.
 * [PretNumerique (Android)](https://play.google.com/store/apps/details?id=com.bibliopresto.pretnumerique) - an ebook / audiobook reader published by Pretnumerique.ca for its patrons; LCP certified.
 * [Shanghai Library Reader (Android)](http://www.library.sh.cn/web/index.html) - an ebook reader developed by the Shanghai Library for its patrons; LCP certified.
-* [Ulverscroft (Android)](https://play.google.com/store/apps/details?id=ulibrary.ulverscroftulibrary.co.uk.ulibrary) - an audiobook reader published by the Ulverscroft Group for the [Ulverscroft Library](https://llc.ulverscroftulibrary.com/); LCP certified.
 * [SUSS Reader (Android)](https://play.google.com/store/apps/details?id=sg.edu.suss.etp.sreader2) - an EPUB / PDF reader for Interactive Study Guides published by the [Singapore University of Social Sciences](https://www.suss.edu.sg/).
-* [NABU Reader (Android)](https://play.google.com/store/apps/details?id=org.libraryforall.simplified&hl=en_US&gl=US) - an EPUB reader for children in Rwanda and Kenya, published by [NABU.org](https://thenewpublishingstandard.com/2020/10/10/nabu-digital-reading-app-launches-in-kenya-with-free-content-in-english-and-kiswahili/); LCP certified. 
-
+* [Ulverscroft (Android)](https://play.google.com/store/apps/details?id=ulibrary.ulverscroftulibrary.co.uk.ulibrary) - an audiobook reader published by the Ulverscroft Group for the [Ulverscroft Library](https://llc.ulverscroftulibrary.com/); LCP certified.
 
 ## Mobile Test Apps 
 
