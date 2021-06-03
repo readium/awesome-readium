@@ -51,7 +51,7 @@ Desktop Apps using Readium JS:
 
 Mobile Apps based on the Readium Mobile iOS toolkit (in alphabetical order). 
 
-* [Aldiko (iOS)](https://testflight.apple.com/join/2aHDilzl) - an ebook, audiobook and comics reader developed by De Marque; LCP certified.
+* [Aldiko Next (iOS)](https://apps.apple.com/us/app/aldiko-next/id1476410111) - an ebook, audiobook and comics reader developed by De Marque; LCP certified.
 * [Allbok (iOS)](https://apps.apple.com/no/app/allbok/id1485392740) - an ebook / audiobook reader developed by Bokbasen for Norwegian public libraries; LCP certified.
 * [Bibblix (iOS)](http://http://bibblix.se/) - an ebook reader targeting 6-12 years old patrons, developed by the Stockholm Public Library in Sweden; LCP certified.
 * [Biblio Library (iOS)](https://apps.apple.com/us/app/biblio-library/id1286685079) - an ebook / audiobook reader developed by Axiell Media for public libraries in Sweden and Finland; LCP compliant.
