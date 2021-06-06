@@ -6,7 +6,7 @@ A list of lists of awesome [Readium](https://readium.org/) resources.
 
 Readium is an open-source foundation dedicated to the development of software, standards and best practices for digital publications.
 
-**Disclaimer:** This list is created for informational purposes only and any links do not constitute an endorsement, recommendation, or favoring by the Readium Foundation.
+**Disclaimer:** This list is created for informational purposes only and the provided links do not constitute an endorsement, recommendation, or favoring by the Readium Foundation.
 
 ## Contents
 
@@ -27,8 +27,10 @@ Readium is an open-source foundation dedicated to the development of software, s
 The Readium community has developed several industrial standards for publications:
 
 * [Web Publication Manifest](https://readium.org/webpub-manifest/) - specifies a JSON manifest format for distributing publications on the Web.
-* [Licensed Content Protection](https://readium.org/lcp-specs/) - specifies an interoperable DRM scheme for packaged publications.
-* [License Status Document](https://readium.org/lsd-specs/) - specifies a JSON document and REST protocol that provides additional controls over a license.
+* [Licensed Content Protection](https://readium.org/lcp-specs/) or LCP - specifies an interoperable DRM scheme for packaged publications.
+* [License Status Document](https://readium.org/lsd-specs/) or LSD - specifies a JSON document and REST protocol that provides additional controls over a DRM license.
+
+A separate list of LCP adopters is maintained by EDRLab [here](https://www.edrlab.org/readium-lcp/certified-apps-servers/). 
 
 ## Documentation
 
@@ -41,8 +43,8 @@ The Readium community has developed several industrial standards for publication
 
 Desktop Apps based on the Readium Desktop toolkit (in alphabetical order). 
 
-* [eKitabu Reader (Windows / MacOS / Linux)](https://www.ekitabu.com/) - an ebook reader developed by eKitabu, targeting education in Africa.
-* [Thorium Reader (Windows / MacOS / Linux)](https://www.edrlab.org/software/thorium-reader/) - a free and open-source ebook / audiobook reader developed by EDRLab; LCP certified.
+* [Thorium Reader (Windows 10 / MacOS / Linux)](https://www.edrlab.org/software/thorium-reader/) - a free and open-source ebook, audiobook, comics and PDF reader developed by EDRLab; fully accessible; LCP certified.
+* [eKitabu Reader (Windows 10 / MacOS / Linux)](https://www.ekitabu.com/) - an ebook reader developed by eKitabu, targeting education in Africa.
 
 Desktop Apps using Readium JS:
 * [Wiley eText (MacOS)](https://apps.apple.com/fr/app/wiley-etext/id1523684519) - an education reader developed by Wiley Publishing.
@@ -88,10 +90,10 @@ Mobile Apps based on the Readium Mobile Android toolkit (in alphabetical order).
 
 ## Mobile Test Apps 
 
-The open-source test application for the Readium Mobile Android toolkit. These apps are LCP compliant, but in "test" mode only. 
+These are Readium Mobile *test apps* intended to demonstrate Readium Mobile technology. Both apps are available on beta channels and are not targeting end-users; both are under active development and evolve continuously. These apps are LCP compliant, but in "test" mode only. 
 
-* [R2 Reader (Android)](https://play.google.com/apps/testing/org.readium.r2reader) -  ebook / comics reader written in Kotlin. [Participate on Github](https://github.com/readium/r2-testapp-kotlin).
-* [R2 Reader (iOS)](https://testflight.apple.com/join/lYEMEfBr) - ebook / PDF reader written in Swift. [Participate on Github](https://github.com/readium/r2-testapp-swift).
+* [R2 Reader (Android)](https://play.google.com/apps/testing/org.readium.r2reader) -  ebook, audiobook, comics and PDF reader written in Kotlin. [Participate on Github](https://github.com/readium/r2-testapp-kotlin).
+* [R2 Reader (iOS)](https://testflight.apple.com/join/lYEMEfBr) - ebook, audiobook, comics and PDF reader written in Swift. [Participate on Github](https://github.com/readium/r2-testapp-swift).
 
 ## Publication Servers
 
