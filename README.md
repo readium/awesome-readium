@@ -28,14 +28,14 @@ The Readium community has developed several industrial standards for publication
 
 * [Web Publication Manifest](https://readium.org/webpub-manifest/) - specifies a JSON manifest format for distributing publications on the Web.
 * [Licensed Content Protection](https://readium.org/lcp-specs/) or LCP - specifies an interoperable DRM scheme for packaged publications.
-* [License Status Document](https://readium.org/lsd-specs/) or LSD - specifies a JSON document and REST protocol that provides additional controls over a DRM license.
+* [License Status Document](https://readium.org/lcp-specs/releases/lsd/latest/) or LSD - specifies a JSON document and REST protocol that provides additional controls over a DRM license.
 
 A separate list of LCP adopters is maintained by EDRLab [here](https://www.edrlab.org/readium-lcp/certified-apps-servers/). 
 
 ## Documentation
 
 * [Architecture](https://readium.org/architecture/) - overview of the architecture of all Readium projects
-* [Locators](https://readium.org/architecture/locators/) - defines a JSON object for pointing into digital publications
+* [Locators](https://readium.org/architecture/models/locators/) - defines a JSON object for pointing into digital publications
 * [Readium CSS](https://readium.org/readium-css/docs/) - defines a set of reference stylesheets for EPUB Reading Systems
 
 
