@@ -26,9 +26,9 @@ Readium is an open-source foundation dedicated to the development of software, s
 
 The Readium community has developed several industrial standards for publications:
 
-* [Web Publication Manifest](https://readium.org/webpub-manifest/) - specifies a JSON manifest format for distributing publications on the Web.
-* [Licensed Content Protection](https://readium.org/lcp-specs/) or LCP - specifies an interoperable DRM scheme for packaged publications.
-* [License Status Document](https://readium.org/lcp-specs/releases/lsd/latest/) or LSD - specifies a JSON document and REST protocol that provides additional controls over a DRM license.
+* [Readium Web Publication Manifest](https://readium.org/webpub-manifest/) - specifies a JSON manifest format for distributing publications on the Web.
+* [Readium Licensed Content Protection](https://readium.org/lcp-specs/) or LCP - specifies an interoperable DRM scheme for packaged publications.
+* [Readium License Status Document](https://readium.org/lcp-specs/releases/lsd/latest/) or LSD - specifies a JSON document and REST protocol that provides additional controls over a DRM license.
 
 A separate list of LCP adopters is maintained by EDRLab [here](https://www.edrlab.org/readium-lcp/certified-apps-servers/). 
 
@@ -37,6 +37,19 @@ A separate list of LCP adopters is maintained by EDRLab [here](https://www.edrla
 * [Architecture](https://readium.org/architecture/) - overview of the architecture of all Readium projects
 * [Locators](https://readium.org/architecture/models/locators/) - defines a JSON object for pointing into digital publications
 * [Readium CSS](https://readium.org/readium-css/docs/) - defines a set of reference stylesheets for EPUB Reading Systems
+
+## Apps based on Readium Mobile
+
+* [Aldiko Next](https://www.aldiko.com) (De Marque) [![Google Play Store](https://img.shields.io/badge/-Google%20Play%20Store-white?logo=google-play&color=black&logoWidth=30)](https://play.google.com/store/apps/details?id=com.aldiko.android) [![Apple AppStore](https://img.shields.io/badge/-Apple%20AppStore-black?logo=app-store&color=white&logoWidth=30)](https://apps.apple.com/us/app/aldiko-next/id1476410111) [![Readium LCP Certified](https://img.shields.io/badge/Readium%20LCP-Certified-blue)](https://www.edrlab.org/readium-lcp/certified-apps-servers/)
+* [Allbok](https://www.allbok.no/) (Bokbasen) [![Google Play Store](https://img.shields.io/badge/-Google%20Play%20Store-white?logo=google-play&color=black&logoWidth=30)](https://play.google.com/store/apps/details?id=com.aldiko.android) [![Apple AppStore](https://img.shields.io/badge/-Apple%20AppStore-black?logo=app-store&color=white&logoWidth=30)](https://apps.apple.com/no/app/allbok/id1485392740) [![Readium LCP Certified](https://img.shields.io/badge/Readium%20LCP-Certified-blue)](https://www.edrlab.org/readium-lcp/certified-apps-servers/)
+
+## Apps based on Readium Desktop
+
+...
+
+## Apps based on Readium Web
+
+...
 
 
 ## Desktop Apps
@@ -90,46 +103,20 @@ Mobile Apps based on the Readium Mobile Android toolkit (in alphabetical order).
 * [SUSS Reader (Android)](https://play.google.com/store/apps/details?id=sg.edu.suss.etp.sreader2) - an EPUB / PDF reader for Interactive Study Guides published by the [Singapore University of Social Sciences](https://www.suss.edu.sg/).
 * [Ulverscroft (Android)](https://play.google.com/store/apps/details?id=ulibrary.ulverscroftulibrary.co.uk.ulibrary) - an audiobook reader published by the Ulverscroft Group for the [Ulverscroft Library](https://llc.ulverscroftulibrary.com/); LCP certified.
 
-## Mobile Test Apps 
+## Compatible with Readium Web Publications
 
-These are Readium Mobile *test apps* intended to demonstrate Readium Mobile technology. Both apps are available on beta channels and are not targeting end-users; both are under active development and evolve continuously. These apps are LCP compliant, but in "test" mode only. 
-
-* [R2 Reader (Android)](https://play.google.com/apps/testing/org.readium.r2reader) -  ebook, audiobook, comics and PDF reader written in Kotlin. [Participate on Github](https://github.com/readium/r2-testapp-kotlin).
-* [R2 Reader (iOS)](https://testflight.apple.com/join/lYEMEfBr) - ebook, audiobook, comics and PDF reader written in Swift. [Participate on Github](https://github.com/readium/r2-testapp-swift).
-
-## Publication Servers
-
-[Publications servers](https://readium.org/architecture/server/) are a key component in [Readium's architecture](https://readium.org/architecture/). These servers can output a Readium Web Publication Manifest.
-
-* [r2-streamer-js](https://github.com/readium/r2-streamer-js) - written in TypeScript using Node.js
-* [r2-streamer-go](https://github.com/readium/r2-streamer-go) - written in Go
-
-## Publication Viewers
-
-Open source Web viewers compatible with the Readium Web Publication Manifest.
+In addition to Readium projects, a number of other apps or open-source projects can support Readium Web Publications:
 
 * [Epub.js](https://github.com/futurepress/epub.js/) - an ebook viewer written in JS
 * [Vivliostyle](https://github.com/vivliostyle/vivliostyle.js) - a document and publication viewer written in JS
 * [xbreader](https://github.com/chocolatkey/xbreader) - a manga viewer written in TypeScript
 
-## Examples
+## Examples & Experiments
 
 * [Animeta! (xbreader)](https://j-novel.club/mc/animeta-volume-1-chapter-1) - first chapter of a manga distributed using RWPM (Readium Web Publication Manifest) in a fork of xbreader.
 * [Herland (Jellybooks)](https://www.jellybooks.com/cloud_reader/books/herland) - a classic distributed using RWPM in Jellybooks' take on Readium Web.
 * [Readium CSS Documentation (Vivliostyle)](https://vivliostyle.github.io/vivliostyle.js/viewer/vivliostyle-viewer.html#b=https://readium.org/readium-css/docs/manifest.json) - Readium CSS documentation in Vivliostyle Viewer using RWPM.
 * [Tom Sawyer (De Marque)](https://player.cantookaudio.com/aHR0cHM6Ly9hcGkuYXJjaGl2ZWxhYi5vcmcvYm9va3MvdG9tX3Nhd3llcl9saWJyaXZveC9vcGRzX2F1ZGlvX21hbmlmZXN0) - Tom Sawyer as an audiobook published by Librivox using RWPM in De Marque's Audiobook Reader.
-
-## Mobile Apps based on the legacy Readium SDK
-
-Mobile Apps based on the legacy Readium SDK. 
-
-* [Adobe Digital Editions (iOS / Android)](https://www.adobe.com/solutions/ebook/digital-editions.html) - an ebook reader published by Adobe. Partially based on the original Readium SDK. [iOS version](https://apps.apple.com/us/app/adobe-digital-editions/id952977781), [Android version](https://play.google.com/store/apps/details?id=com.adobe.digitaleditions).
-* [Baobab Reader (iOS / Android)](https://baobabapp.com/) - an ebook reader published by Dilicom for French public libraries: LCP compliant. [iOS version](https://apps.apple.com/fr/app/baobab-app/id1364023895), [Android version](https://play.google.com/store/apps/details?id=com.baobabapp.baobab).
-* [LEA Reader (iOS / Android)](https://www.adilibre.fr/lea-reader/) - an ebook reader published by Adilibre for French readers; LCP compliant. [iOS version](https://apps.apple.com/fr/app/lea-reader/id1313873614), [Android version](https://play.google.com/store/apps/details?id=com.adilibre.leareader)
-* [Lisa Reader (iOS / Android)](https://lis-a.fr/fr/lisa/) - an ebook reader published by Art Book Magazine for French readers. Based on the original Readium SDK, LCP compliant. [iOS version](https://apps.apple.com/fr/app/lis-a/id1096168122), [Android version](https://play.google.com/store/apps/details?id=com.artbookmagazine.lisa).
-
-## Experiments
-
 * [webpub-viewer](https://github.com/HadrienGardeur/webpub-viewer) - an `iframe` based navigator for ebooks, written in JS
 * [comics-viewer](https://github.com/HadrienGardeur/comics-viewer) - an `img` based navigator for comics, written in JS
 * [audiobook-player](https://github.com/HadrienGardeur/audiobook-player) - an `audio` based navigator for audiobooks, written in JS
