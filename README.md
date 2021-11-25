@@ -40,8 +40,12 @@ A separate list of LCP adopters is maintained by EDRLab [here](https://www.edrla
 
 ## Apps based on Readium Mobile
 
-* [Aldiko Next](https://www.aldiko.com) (De Marque) [![Google Play Store](https://img.shields.io/badge/-Google%20Play%20Store-white?logo=google-play&color=black&logoWidth=30)](https://play.google.com/store/apps/details?id=com.aldiko.android) [![Apple AppStore](https://img.shields.io/badge/-Apple%20AppStore-black?logo=app-store&color=white&logoWidth=30)](https://apps.apple.com/us/app/aldiko-next/id1476410111) [![Readium LCP Certified](https://img.shields.io/badge/Readium%20LCP-Certified-blue)](https://www.edrlab.org/readium-lcp/certified-apps-servers/)
-* [Allbok](https://www.allbok.no/) (Bokbasen) [![Google Play Store](https://img.shields.io/badge/-Google%20Play%20Store-white?logo=google-play&color=black&logoWidth=30)](https://play.google.com/store/apps/details?id=com.aldiko.android) [![Apple AppStore](https://img.shields.io/badge/-Apple%20AppStore-black?logo=app-store&color=white&logoWidth=30)](https://apps.apple.com/no/app/allbok/id1485392740) [![Readium LCP Certified](https://img.shields.io/badge/Readium%20LCP-Certified-blue)](https://www.edrlab.org/readium-lcp/certified-apps-servers/)
+[Readium Mobile](https://github.com/readium/mobile) is a toolkit for ebooks, audiobooks and comics written in Swift & Kotlin.
+
+* [Aldiko Next](https://www.aldiko.com) (De Marque) available on [Apple AppStore](https://apps.apple.com/us/app/aldiko-next/id1476410111), [Google Play Store](https://play.google.com/store/apps/details?id=com.aldiko.android) and [![Readium LCP Certified](https://img.shields.io/badge/Readium%20LCP-Certified-blue)](https://www.edrlab.org/readium-lcp/certified-apps-servers/)
+* [Allbok](https://www.allbok.no/) (Bokbasen) - available on [Apple AppStore](https://apps.apple.com/no/app/allbok/id1485392740), [Google Play Store](https://play.google.com/store/apps/details?id=no.bokbasen.allbok) and [![Readium LCP Certified](https://img.shields.io/badge/Readium%20LCP-Certified-blue)](https://www.edrlab.org/readium-lcp/certified-apps-servers/)
+* [Bibblix](https://bibblix.se/) (Stockholm Public Library) - available on [Apple AppStore](https://itunes.apple.com/se/app/bibblix/id1086942072), [Google Play Store](https://play.google.com/store/apps/details?id=se.stockholm.bibblix) and [![Readium LCP Certified](https://img.shields.io/badge/Readium%20LCP-Certified-blue)](https://www.edrlab.org/readium-lcp/certified-apps-servers/)
+* [Biblio Library](https://www.axiellmedia.com/en/for-libraries/biblio/) (Axiell Media) - available on [Apple AppStore](https://apps.apple.com/us/app/biblio-library/id1286685079), [Google Play Store](https://play.google.com/store/apps/details?id=com.Axiellmedia.LibraryApp) and [![Readium LCP Certified](https://img.shields.io/badge/Readium%20LCP-Certified-blue)](https://www.edrlab.org/readium-lcp/certified-apps-servers/)
 
 ## Apps based on Readium Desktop
 
@@ -66,9 +70,6 @@ Desktop Apps using Readium JS:
 
 Mobile Apps based on the Readium Mobile iOS toolkit (in alphabetical order). 
 
-* [Aldiko Next (iOS)](https://apps.apple.com/us/app/aldiko-next/id1476410111) - an ebook, audiobook and comics reader developed by De Marque; LCP certified.
-* [Allbok (iOS)](https://apps.apple.com/no/app/allbok/id1485392740) - an ebook / audiobook reader developed by Bokbasen for Norwegian public libraries; LCP certified.
-* [Bibblix (iOS)](http://http://bibblix.se/) - an ebook reader targeting 6-12 years old patrons, developed by the Stockholm Public Library in Sweden; LCP certified.
 * [Biblio Library (iOS)](https://apps.apple.com/us/app/biblio-library/id1286685079) - an ebook / audiobook reader developed by Axiell Media for public libraries in Sweden and Finland; LCP compliant.
 * [Brio Reader (iOS)](https://apps.apple.com/fr/app/brio-reader/id1475894718) - an ebook / PDF / audiobook reader published by by Eden Livres for French readers; LCP certified.
 * [Bookbeat](https://apps.apple.com/us/app/id1056652614) - an ebook / audiobook reader developed by Bookbeat for its users.
@@ -88,9 +89,6 @@ Mobile Apps based on the Readium Mobile iOS toolkit (in alphabetical order).
 
 Mobile Apps based on the Readium Mobile Android toolkit (in alphabetical order). 
 
-* [Aldiko (Android)](https://play.google.com/store/apps/details?id=com.aldiko.android) - an ebook, audiobook and comics reader developed by De Marque; LCP certified.
-* [Allbok (Android)](https://play.google.com/store/apps/details?id=no.bokbasen.allbok) - an ebook / audiobook reader developed by Bokbasen for Norwegian public libraries; LCP certified.
-* [Biblio Library (Android)](https://play.google.com/store/apps/details?id=com.Axiellmedia.LibraryApp) - an ebook / audiobook reader developed by Axiell Media for public libraries in Sweden and Finland; LCP compliant.
 * [Brio Reader (Android)](https://play.google.com/store/apps/details?id=com.eden.brioreader) - an ebook / PDF / audiobook reader published by by Eden Livres for French readers; LCP certified.
 * [cloudLibrary (Android)](https://play.google.com/store/apps/details?id=com.txtr.android.mmm)
 * [DITA Reader (Android)](https://play.google.com/store/apps/details?id=com.aferdita.urms.reader) - an ebook / PDF / audiobook reader developed by DITA; LCP certified.
