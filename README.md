@@ -28,14 +28,14 @@ The Readium community has developed several industrial standards for publication
 
 * [Web Publication Manifest](https://readium.org/webpub-manifest/) - specifies a JSON manifest format for distributing publications on the Web.
 * [Licensed Content Protection](https://readium.org/lcp-specs/) or LCP - specifies an interoperable DRM scheme for packaged publications.
-* [License Status Document](https://readium.org/lsd-specs/) or LSD - specifies a JSON document and REST protocol that provides additional controls over a DRM license.
+* [License Status Document](https://readium.org/lcp-specs/releases/lsd/latest/) or LSD - specifies a JSON document and REST protocol that provides additional controls over a DRM license.
 
 A separate list of LCP adopters is maintained by EDRLab [here](https://www.edrlab.org/readium-lcp/certified-apps-servers/). 
 
 ## Documentation
 
 * [Architecture](https://readium.org/architecture/) - overview of the architecture of all Readium projects
-* [Locators](https://readium.org/architecture/locators/) - defines a JSON object for pointing into digital publications
+* [Locators](https://readium.org/architecture/models/locators/) - defines a JSON object for pointing into digital publications
 * [Readium CSS](https://readium.org/readium-css/docs/) - defines a set of reference stylesheets for EPUB Reading Systems
 
 
@@ -60,6 +60,7 @@ Mobile Apps based on the Readium Mobile iOS toolkit (in alphabetical order).
 * [Bläddra (iOS)](https://apps.apple.com/se/app/bl%C3%A4ddra/id1501134109) - an ebook reader developed by Kungliga Biblioteket (kb.se), the Swedish national Library; offers ebooks in Sweden's national minority languages. 
 * [Brio Reader (iOS)](https://apps.apple.com/fr/app/brio-reader/id1475894718) - an ebook / PDF / audiobook reader published by by Eden Livres for French readers; LCP certified.
 * [Bookbeat](https://apps.apple.com/us/app/id1056652614) - an ebook / audiobook reader developed by Bookbeat for its users.
+* [cloudLibrary (iOS)](https://apps.apple.com/us/app/cloudlibrary-by-bibliotheca/id466446054)
 * [DITA Reader (iOS)](https://apps.apple.com/us/app/dita-reader/id1274807900) - an ebook / PDF / audiobook reader developed by DITA; LCP certified.
 * [Gantec EasyReadz (iOS)](https://apps.apple.com/us/app/easyreadz/id1527785244) - an EPUB / PDF reader with direct access to a catalog of ebooks in English (ebooks2go), published by [Gantec publishing](https://www.gantecpublishing.com); side-loading available; LCP certified.
 * [Glassboxx (iOS)](https://apps.apple.com/gb/app/glassboxx/id1464705712) - an ebook / audiobook reader published by Firsty Group for its [Glassboxx platform](https://glassboxx.co.uk/); LCP certified.
@@ -75,11 +76,12 @@ Mobile Apps based on the Readium Mobile iOS toolkit (in alphabetical order).
 
 Mobile Apps based on the Readium Mobile Android toolkit (in alphabetical order). 
 
-* [Aldiko (Android)](https://play.google.com/apps/testing/com.aldiko.android) - an ebook, audiobook and comics reader developed by De Marque; LCP certified.
+* [Aldiko (Android)](https://play.google.com/store/apps/details?id=com.aldiko.android) - an ebook, audiobook and comics reader developed by De Marque; LCP certified.
 * [Allbok (Android)](https://play.google.com/store/apps/details?id=no.bokbasen.allbok) - an ebook / audiobook reader developed by Bokbasen for Norwegian public libraries; LCP certified.
 * [Biblio Library (Android)](https://play.google.com/store/apps/details?id=com.Axiellmedia.LibraryApp) - an ebook / audiobook reader developed by Axiell Media for public libraries in Sweden and Finland; LCP compliant.
 * [Bläddra (Android)](https://play.google.com/store/apps/details?id=se.kb.eboksappen) - - an ebook reader developed by Kungliga Biblioteket (kb.se), the Swedish national Library; offers ebooks in Sweden's national minority languages.
 * [Brio Reader (Android)](https://play.google.com/store/apps/details?id=com.eden.brioreader) - an ebook / PDF / audiobook reader published by by Eden Livres for French readers; LCP certified.
+* [cloudLibrary (Android)](https://play.google.com/store/apps/details?id=com.txtr.android.mmm)
 * [DITA Reader (Android)](https://play.google.com/store/apps/details?id=com.aferdita.urms.reader) - an ebook / PDF / audiobook reader developed by DITA; LCP certified.
 * [Glassboxx (Android)](https://play.google.com/store/apps/details?id=uk.co.firstygroup.glassboxx) - an ebook / audiobook reader published by Firsty Group for its [Glassboxx platform](https://glassboxx.co.uk/); LCP certified.
 * [Inspirata ebooks (Android)](https://https://endao.co/) - an ebook reader targeting Christian readers in Hong Kong, developed by Endao.co; LCP certified.
