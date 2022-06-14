@@ -81,6 +81,7 @@ The applications listed below have been developed out of Thorium Reader, which i
 * [MLOL Ebook Reader](https://www.medialibrary.it) (medialibraryonline, Italy) available [here](https://www.medialibrary.it/pagine/pagina.aspx?id=881)  [![Readium LCP Certified](https://img.shields.io/badge/Readium%20LCP-Certified-blue)](https://www.edrlab.org/readium-lcp/certified-apps-servers/)
 * [Xeread](https://xeread.xebook.es) (Xercode, Spain) available [here]()  [![Readium LCP Certified](https://img.shields.io/badge/Readium%20LCP-Certified-blue)](https://www.edrlab.org/readium-lcp/certified-apps-servers/)
 * [Inspirata ebooks](https://ebook.endao.co/index-Reader) (Inspirata, Hong Kong) available [here]()  [![Readium LCP Certified](https://img.shields.io/badge/Readium%20LCP-Certified-blue)](https://www.edrlab.org/readium-lcp/certified-apps-servers/)
+* [Torrossa Reader](https://access.torrossa.com/it/user/access#) (Casalin Libri, Italy) available [here]()  [![Readium LCP Certified](https://img.shields.io/badge/Readium%20LCP-Certified-blue)](https://www.edrlab.org/readium-lcp/certified-apps-servers/)
 
 ## Other Desktop Apps
 
