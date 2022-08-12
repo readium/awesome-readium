@@ -86,7 +86,7 @@ The applications listed below have been developed out of Thorium Reader, which i
 ## Other Desktop Apps
 
 Using Readium JS:
-* [Wiley eText (MacOS)](https://apps.apple.com/fr/app/wiley-etext/id1523684519) - an education reader developed by Wiley Publishing.
+* [Wiley eText (MacOS)](https://apps.apple.com/fr/app/wiley-etext/id1523684519) - an education reader developed by Wiley Publishing. (Has been [removed](https://web.archive.org/web/20220320041556/https://apps.apple.com/us/app/id1523684519) from the US app store.) 
 
 ## Apps based on Readium Web
 
