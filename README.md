@@ -12,6 +12,8 @@ Readium is an open-source foundation dedicated to the development of software, s
 
 * [Open Standards](#open-standards)
 * [Documentation](#documentation)
+* [Readium toolkits](#readium-toolkits)
+* [Other toolkits related to Readium](#other-toolkits-related-to-readium)
 * [Apps based on Readium Mobile](#apps-based-on-readium-mobile)
 * [Apps based on Readium Desktop](#apps-based-on-readium-desktop)
 * [Apps based on Readium Web](#apps-based-on-readium-web)
@@ -33,6 +35,20 @@ A separate list of LCP adopters is maintained by EDRLab [here](https://www.edrla
 * [Architecture](https://readium.org/architecture/) - overview of the architecture of all Readium projects
 * [Locators](https://readium.org/architecture/models/locators/) - defines a JSON object for pointing into digital publications
 * [Readium CSS](https://readium.org/readium-css/docs/) - defines a set of reference stylesheets for EPUB Reading Systems
+
+## Readium toolkits
+
+* [Swift toolkit](https://github.com/readium/swift-toolkit) Readium Mobile for iOS devices
+* [Kotlin toolkit](https://github.com/readium/kotlin-toolkit) Readium Mobile for Android devices
+* [TS toolkit](https://github.com/readium/ts-toolkit) Readium Web, client part
+* [Go toolkit](https://github.com/readium/go-toolkit) Readium Web, server part
+* [Readium Desktop](https://github.com/readium/kotlin-toolkit) The Node.js navigator used in Thorium Desktop (EDRLab)
+* [Readium CSS](https://github.com/readium/readium-css) The reading CSS used in every Readium toolkit
+
+## Other toolkits related to Readium
+
+* [React Native Readium](https://github.com/5-stones/react-native-readium) A react-native wrapper for Readium Mobile
+* [Iridium](https://github.com/Mantano/iridium) A Flutter port of Readium Mobile
 
 ## Apps based on Readium Mobile
 
