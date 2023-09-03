@@ -47,7 +47,7 @@ A separate list of LCP adopters is maintained by EDRLab [here](https://www.edrla
 
 ## Other toolkits related to Readium
 
-* [React Native Readium](https://github.com/5-stones/react-native-readium) A react-native wrapper for Readium Mobile
+* [React Native Readium](https://github.com/5-stones/react-native-readium) A react-native wrapper for Readium Mobile & Web
 * [Iridium](https://github.com/Mantano/iridium) A Flutter port of Readium Mobile
 
 ## Apps based on Readium Mobile
