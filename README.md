@@ -10,51 +10,51 @@ Readium is an open-source foundation dedicated to the development of software, s
 
 ## Contents
 
-* [Open Standards](#open-standards)
-* [Documentation](#documentation)
-* [Readium toolkits](#readium-toolkits)
-* [Other toolkits related to Readium](#other-toolkits-related-to-readium)
+* [Toolkits](#toolkits)
+* [Open-source applications](#open-source-applications)
+* [Specifications](#specifications)
+* [Examples & Experiments](#examples--experiments)
 * [Apps based on Readium Mobile](#apps-based-on-readium-mobile)
 * [Apps based on Readium Desktop](#apps-based-on-readium-desktop)
-* [Apps based on Readium Web](#apps-based-on-readium-web)
 * [Compatible with Readium Web Publications](#compatible-with-readium-web-publications)
-* [Examples & Experiments](#examples--experiments)
+* [Other toolkits related to Readium](#other-toolkits-related-to-readium)
 
-## Open Standards
+## Toolkits
 
-The Readium community has developed several industrial open standards for publications:
+* [Readium Mobile](https://readium.org/mobile)
+  * [Swift toolkit](https://github.com/readium/swift-toolkit) for iOS, iPadOS and macOS
+  * [Kotlin toolkit](https://github.com/readium/kotlin-toolkit) for Android and Chrome OS
+* [Readium Web](https://readium.org/web)
+  * [TS toolkit](https://github.com/readium/ts-toolkit) primarily used for client-side applications
+  * [Go toolkit](https://github.com/readium/go-toolkit) primarily used for server-side applications
+ 
+## Open-source applications
 
-* [Readium Web Publication Manifest](https://readium.org/webpub-manifest/) - specifies a JSON manifest format for distributing publications on the Web.
-* [Readium Licensed Content Protection](https://readium.org/lcp-specs/) or LCP - specifies an interoperable DRM scheme for packaged publications.
-* [Readium License Status Document](https://readium.org/lcp-specs/releases/lsd/latest/) or LSD - specifies a JSON document and REST protocol that provides additional controls over a DRM license.
+* [Readium Playground](https://github.com/readium/playground) for reading EPUB on the Web
+* [Thorium Reader](https://github.com/edrlab/thorium-reader) for EPUB, PDF and audiobooks on Windows, macOS and Linux
 
-A separate list of LCP adopters is maintained by EDRLab [here](https://www.edrlab.org/readium-lcp/certified-apps-servers/). 
+## Specifications
 
-## Documentation
+The Readium community maintains several specifications for the publishing industry:
 
-* [Architecture](https://readium.org/architecture/) - overview of the architecture of all Readium projects
-* [Locators](https://readium.org/architecture/models/locators/) - defines a JSON object for pointing into digital publications
-* [Readium CSS](https://readium.org/readium-css/docs/) - defines a set of reference stylesheets for EPUB Reading Systems
+* [Readium Web Publication Manifest](https://readium.org/webpub-manifest/), a JSON manifest format for distributing publications on the Web
+* [Readium Licensed Content Protection (LCP)](https://readium.org/lcp-specs/), an interoperable DRM scheme for packaged publications
+* [Readium License Status Document (LSD)](https://readium.org/lcp-specs/releases/lsd/latest/), a REST protocol that provides additional controls over a DRM license
 
-## Readium toolkits
+A separate list of LCP adopters is maintained by EDRLab [here](https://www.edrlab.org/readium-lcp/certified-apps-servers/).
 
-* [Swift toolkit](https://github.com/readium/swift-toolkit) Readium Mobile for iOS devices
-* [Kotlin toolkit](https://github.com/readium/kotlin-toolkit) Readium Mobile for Android devices
-* [TS toolkit](https://github.com/readium/ts-toolkit) Readium Web, client part
-* [Go toolkit](https://github.com/readium/go-toolkit) Readium Web, server part
-* [Readium Desktop](https://github.com/readium/kotlin-toolkit) The Node.js navigator used in Thorium Desktop (EDRLab)
-* [Readium CSS](https://github.com/readium/readium-css) The reading CSS used in every Readium toolkit
+## Examples & Experiments
 
-## Other toolkits related to Readium
-
-* [React Native Readium](https://github.com/5-stones/react-native-readium) A react-native wrapper for Readium Mobile & Web
-* [Iridium](https://github.com/Mantano/iridium) A Flutter port of Readium Mobile
+* [Readium Playground](https://playground.readium.org), an in-development Web Reader for EPUB files
+* [Readium Speech](https://readium.org/speech/demo), a voice selector demo
+* [Flatland (De Marque)](https://player.cantookaudio.com/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3JlYWRpdW0vd2VicHViLW1hbmlmZXN0L3JlZnMvaGVhZHMvbWFzdGVyL2V4YW1wbGVzL0ZsYXRsYW5kL21hbmlmZXN0Lmpzb24=) - Flatland as an audiobook published by Librivox using RWPM (Readium Web Publication Manifest) in De Marque's Audiobook Reader
+* [Animeta! (xbreader)](https://labs.j-novel.club/embed/v2/PRT-OKSLU4Y) - first chapter of a manga distributed using RWPM (Readium Web Publication Manifest) in a fork of xbreader
 
 ## Apps based on Readium Mobile
 
 [Readium Mobile](https://github.com/readium/mobile) is a toolkit for ebooks, audiobooks and comics written in Swift & Kotlin.
 
-* [Allbok](https://www.allbok.no/) (Bokbasenn Norway) - available on [Apple AppStore](https://apps.apple.com/no/app/allbok/id1485392740), [Google Play Store](https://play.google.com/store/apps/details?id=no.bokbasen.allbok)  [![Readium LCP Certified](https://img.shields.io/badge/Readium%20LCP-Certified-blue)](https://www.edrlab.org/readium-lcp/certified-apps-servers/)
+* [Allbok](https://www.allbok.no/) (Bokbasen, Norway) - available on [Apple AppStore](https://apps.apple.com/no/app/allbok/id1485392740), [Google Play Store](https://play.google.com/store/apps/details?id=no.bokbasen.allbok)  [![Readium LCP Certified](https://img.shields.io/badge/Readium%20LCP-Certified-blue)](https://www.edrlab.org/readium-lcp/certified-apps-servers/)
 * [Baobab](https://baobabapp.com) (Dilicom, by ABM) - available on [Apple AppStore](https://apps.apple.com/fr/app/baobab-app/id1364023895), [Google Play Store](https://play.google.com/store/apps/details?id=com.baobabapp.baobab&hl=fr&gl=FR)  [![Readium LCP Certified](https://img.shields.io/badge/Readium%20LCP-Certified-blue)](https://www.edrlab.org/readium-lcp/certified-apps-servers/)
 * [Beleven](https://chytanka.com/) (Estonia; Chytanka.com, Ukrain) - available on [Apple AppStore](https://apps.apple.com/us/app/%D1%87%D0%B8%D1%82%D0%B0%D0%BD%D0%BA%D0%B0/id1543172038), [Google Play Store](https://play.google.com/store/apps/details?id=com.beleven.chytanka&hl=uk&gl=US)  [![Readium LCP Certified](https://img.shields.io/badge/Readium%20LCP-Certified-blue)](https://www.edrlab.org/readium-lcp/certified-apps-servers/)
 * [Bibblix](https://bibblix.se/) (Stockholm Public Library, Sweden) - available on [Apple AppStore](https://itunes.apple.com/se/app/bibblix/id1086942072), [Google Play Store](https://play.google.com/store/apps/details?id=se.stockholm.bibblix)  [![Readium LCP Certified](https://img.shields.io/badge/Readium%20LCP-Certified-blue)](https://www.edrlab.org/readium-lcp/certified-apps-servers/)
@@ -110,15 +110,6 @@ The applications listed below have been developed out of Thorium Reader, which i
 * [Inspirata ebooks](https://ebook.endao.co/index-Reader) (Inspirata, Hong Kong) available [here]()  [![Readium LCP Certified](https://img.shields.io/badge/Readium%20LCP-Certified-blue)](https://www.edrlab.org/readium-lcp/certified-apps-servers/)
 * [Torrossa Reader](https://www.casalini.it) (Casalin Libri, Italy) available [here]()  [![Readium LCP Certified](https://img.shields.io/badge/Readium%20LCP-Certified-blue)](https://www.edrlab.org/readium-lcp/certified-apps-servers/)
 
-## Other Desktop Apps
-
-Using Readium JS:
-* [Wiley eText (MacOS)](https://apps.apple.com/fr/app/wiley-etext/id1523684519) - an education reader developed by Wiley Publishing. (Has been [removed](https://web.archive.org/web/20220320041556/https://apps.apple.com/us/app/id1523684519) from the US app store.) 
-
-## Apps based on Readium Web
-
-...
-
 ## Compatible with Readium Web Publications
 
 In addition to Readium projects, a number of other apps or open-source projects can support Readium Web Publications:
@@ -127,16 +118,10 @@ In addition to Readium projects, a number of other apps or open-source projects 
 * [Vivliostyle](https://github.com/vivliostyle/vivliostyle.js) - a document and publication viewer written in JS
 * [xbreader](https://github.com/chocolatkey/xbreader) - a manga viewer written in TypeScript
 
-## Examples & Experiments
+## Other toolkits related to Readium
 
-* [Animeta! (xbreader)](https://j-novel.club/mc/animeta-volume-1-chapter-1) - first chapter of a manga distributed using RWPM (Readium Web Publication Manifest) in a fork of xbreader.
-* [Herland (Jellybooks)](https://www.jellybooks.com/cloud_reader/books/herland) - a classic distributed using RWPM in Jellybooks' take on Readium Web.
-* [Readium CSS Documentation (Vivliostyle)](https://vivliostyle.github.io/vivliostyle.js/viewer/vivliostyle-viewer.html#b=https://readium.org/readium-css/docs/manifest.json) - Readium CSS documentation in Vivliostyle Viewer using RWPM.
-* [Tom Sawyer (De Marque)](https://player.cantookaudio.com/aHR0cHM6Ly9hcGkuYXJjaGl2ZWxhYi5vcmcvYm9va3MvdG9tX3Nhd3llcl9saWJyaXZveC9vcGRzX2F1ZGlvX21hbmlmZXN0) - Tom Sawyer as an audiobook published by Librivox using RWPM in De Marque's Audiobook Reader.
-* [webpub-viewer](https://github.com/HadrienGardeur/webpub-viewer) - an `iframe` based navigator for ebooks, written in JS
-* [comics-viewer](https://github.com/HadrienGardeur/comics-viewer) - an `img` based navigator for comics, written in JS
-* [audiobook-player](https://github.com/HadrienGardeur/audiobook-player) - an `audio` based navigator for audiobooks, written in JS
-
+* [React Native Readium](https://github.com/5-stones/react-native-readium) A react-native wrapper for Readium Mobile & Web
+* [Iridium](https://github.com/Mantano/iridium) A Flutter port of Readium Mobile
 
 ## License
 
