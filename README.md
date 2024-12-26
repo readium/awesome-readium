@@ -13,7 +13,7 @@ Readium is an open-source foundation dedicated to the development of software, s
 * [Toolkits](#toolkits)
 * [Open-source applications](#open-source-applications)
 * [Specifications](#specifications)
-* [Examples & Experiments](#examples--experiments)
+* [Live examples](#live-examples)
 * [Apps based on Readium Mobile](#apps-based-on-readium-mobile)
 * [Apps based on Readium Desktop](#apps-based-on-readium-desktop)
 * [Compatible with Readium Web Publications](#compatible-with-readium-web-publications)
@@ -43,12 +43,12 @@ The Readium community maintains several specifications for the publishing indust
 
 A separate list of LCP adopters is maintained by EDRLab [here](https://www.edrlab.org/readium-lcp/certified-apps-servers/).
 
-## Examples & Experiments
+## Live examples
 
 * [Readium Playground](https://playground.readium.org), an in-development Web Reader for EPUB files
-* [Readium Speech](https://readium.org/speech/demo), a voice selector demo
-* [Flatland (De Marque)](https://player.cantookaudio.com/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3JlYWRpdW0vd2VicHViLW1hbmlmZXN0L3JlZnMvaGVhZHMvbWFzdGVyL2V4YW1wbGVzL0ZsYXRsYW5kL21hbmlmZXN0Lmpzb24=) - Flatland as an audiobook published by Librivox using RWPM (Readium Web Publication Manifest) in De Marque's Audiobook Reader
-* [Animeta! (xbreader)](https://labs.j-novel.club/embed/v2/PRT-OKSLU4Y) - first chapter of a manga distributed using RWPM (Readium Web Publication Manifest) in a fork of xbreader
+* [Readium Speech](https://readium.org/speech/demo), a cross-platform voice selector demo
+* [Flatland (De Marque)](https://player.cantookaudio.com/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3JlYWRpdW0vd2VicHViLW1hbmlmZXN0L3JlZnMvaGVhZHMvbWFzdGVyL2V4YW1wbGVzL0ZsYXRsYW5kL21hbmlmZXN0Lmpzb24=) an audiobook published by Librivox distributed using [the audiobook profile](https://readium.org/webpub-manifest/profiles/audiobook) in De Marque's Audiobook Reader
+* [Animeta! (xbreader)](https://labs.j-novel.club/embed/v2/PRT-OKSLU4Y) a manga distributed using [the Divina profile](https://readium.org/webpub-manifest/profiles/divina) in a fork of xbreader
 
 ## Apps based on Readium Mobile
 
