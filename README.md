@@ -94,7 +94,7 @@ A separate list of LCP adopters is maintained by EDRLab [here](https://www.edrla
 * 🇬🇧 [Glassboxx](https://glassboxx.co.uk/)
   * [Apple AppStore](https://apps.apple.com/gb/app/glassboxx/id1464705712)
   * [Google Play Store](https://play.google.com/store/apps/details?id=uk.co.firstygroup.glassboxx)
-* 🇭🇰 [Inspirata ebooks](https://ebook.endao.co/)
+* 🇭🇰 [Inspirata ebooks](https://ebook.endao.co/index-Reader)
   * [Apple AppStore](https://apps.apple.com/us/app/恩道電子書-inspirata-ebooks/id1463909109)
   * [Google Play Store](https://play.google.com/store/apps/details?id=life.tti.readerui)
 * 🇪🇬 [iRead](https://shop.ireadhub.com/)
@@ -122,7 +122,7 @@ A separate list of LCP adopters is maintained by EDRLab [here](https://www.edrla
   * [Google Play Store](https://play.google.com/store/apps/details?id=com.bibliopresto.pretnumerique)
 * 🇨🇳 [Shanghai Library Reader](http://www.library.sh.cn/web/index.html)
   * [Apple AppStore](https://apps.apple.com/us/app/%E4%B8%8A%E6%B5%B7%E5%9B%BE%E4%B9%A6%E9%A6%86-shanghai-library/id408876565)
-* 🇮🇹 [Torrossa Reader](https://www.torrossa.com/) (Casalini Libri)
+* 🇮🇹 [Torrossa Reader](https://www.torrossa.com/en/reader) (Casalini Libri)
   * [Apple AppStore](https://apps.apple.com/us/app/torrossa-reader/id1621262664)
   * [Google Play Store](https://play.google.com/store/apps/details?id=com.torrossa.reader)
 * 🇬🇧 [uLibrary](https://www.ulverscroft.com/home.php?countryCode=UK) (Ulversoft Group)
@@ -153,16 +153,25 @@ A separate list of LCP adopters is maintained by EDRLab [here](https://www.edrla
 ## Apps based on Readium Desktop
 
 [Readium Desktop](https://github.com/readium/desktop) is a toolkit for ebooks, PDF documents, audiobooks and comics written Typescript, using node.js and Electron.js, for use on Windows, MacOS and Linux.
+[Thorium Reader](https://thorium.edrlab.org/) is an open-source application available on Windows, macOS and Linux built on top of Readium Desktop which supports Readium LCP.
 
-The applications listed below have been developed out of Thorium Reader, which is also open-source. 
+All of the applications listed below are based on Thorium and support Readium LCP as well:
 
-* [Thorium Reader](https://www.edrlab.org/software/thorium-reader/) (EDRLab) available on the product page of from the [Windows Store](https://bit.ly/thoriumreader-en) [![Readium LCP Certified](https://img.shields.io/badge/Readium%20LCP-Certified-blue)](https://www.edrlab.org/readium-lcp/certified-apps-servers/)
-* [eKitabu e-reader](https://www.ekitabu.com/) (eKitabu, Kenya) available from the [Windows Store](https://www.microsoft.com/en-us/p/ekitabu-e-reader/9mtzsjs9jsvw?SilentAuth=1&wa=wsignin1.0&activetab=pivot:overviewtab) [![Readium LCP Certified](https://img.shields.io/badge/Readium%20LCP-Certified-blue)](https://www.edrlab.org/readium-lcp/certified-apps-servers/)
-* [Glassboxx](https://glassboxx.co.uk/) (Glassboxx, UK) available from the [product page](https://glassboxx.com/glassboxx-downloads/) and the [Windows Store](https://www.microsoft.com/en-us/p/glassboxx/9nzklr5v4fq6?activetab=pivot:overviewtab) [![Readium LCP Certified](https://img.shields.io/badge/Readium%20LCP-Certified-blue)](https://www.edrlab.org/readium-lcp/certified-apps-servers/)
-* [MLOL Ebook Reader](https://www.medialibrary.it) (medialibraryonline, Italy) available [here](https://www.medialibrary.it/pagine/pagina.aspx?id=881)  [![Readium LCP Certified](https://img.shields.io/badge/Readium%20LCP-Certified-blue)](https://www.edrlab.org/readium-lcp/certified-apps-servers/)
-* [Xeread](https://xeread.xebook.es) (Xercode, Spain) available [here]()  [![Readium LCP Certified](https://img.shields.io/badge/Readium%20LCP-Certified-blue)](https://www.edrlab.org/readium-lcp/certified-apps-servers/)
-* [Inspirata ebooks](https://ebook.endao.co/index-Reader) (Inspirata, Hong Kong) available [here]()  [![Readium LCP Certified](https://img.shields.io/badge/Readium%20LCP-Certified-blue)](https://www.edrlab.org/readium-lcp/certified-apps-servers/)
-* [Torrossa Reader](https://www.casalini.it) (Casalin Libri, Italy) available [here]()  [![Readium LCP Certified](https://img.shields.io/badge/Readium%20LCP-Certified-blue)](https://www.edrlab.org/readium-lcp/certified-apps-servers/)
+* 🇫🇷 [Thorium Reader](https://thorium.edrlab.org/) (EDRLab)
+  * [Download page](https://thorium.edrlab.org/)
+  * [Windows Store](https://bit.ly/thoriumreader-en)
+* 🇰🇪 [eKitabu e-reader](https://www.ekitabu.com/)
+  * [Windows Store](https://www.microsoft.com/en-us/p/ekitabu-e-reader/9mtzsjs9jsvw)
+* 🇬🇧 [Glassboxx](https://glassboxx.co.uk/)
+  * [Download page](https://glassboxx.com/glassboxx-downloads/)
+  * [Windows Store](https://www.microsoft.com/en-us/p/glassboxx/9nzklr5v4fq6)
+* 🇭🇰 [Inspirata ebooks](https://ebook.endao.co/index-Reader)
+  * [Download page](https://ebook.endao.co/index-Reader) 
+* 🇮🇹 [MLOL Ebook Reader](https://www.medialibrary.it) (Horizons Unlimited) 
+  * [Download page](https://www.medialibrary.it/pagine/pagina.aspx?id=881)
+* 🇮🇹 [Torrossa Reader](https://www.torrossa.com/en/reader) (Casalin Libri)
+  * [Download page](https://www.torrossa.com/en/reader)
+  * [Windows Store](https://apps.microsoft.com/store/detail/torrossa-reader/9PHKXVVK92PS)
 
 ## Compatible with Readium Web Publications
 
