@@ -15,7 +15,7 @@ Readium is an open-source foundation dedicated to the development of software, s
 * [Specifications](#specifications)
 * [Live examples](#live-examples)
 * [Apps based on Readium Mobile](#apps-based-on-readium-mobile)
-* [Apps based on Readium Desktop](#apps-based-on-readium-desktop)
+* [Apps based on Thorium](#apps-based-on-thorium)
 * [Compatible with Readium Web Publications](#compatible-with-readium-web-publications)
 * [Other toolkits related to Readium](#other-toolkits-related-to-readium)
 
@@ -153,7 +153,7 @@ A separate list of LCP adopters is maintained by EDRLab [here](https://www.edrla
   * [Apple AppStore](https://apps.apple.com/sg/app/suss-reader-for-ebooks-epubs/id1477574366)
   * [Google Play Store](https://play.google.com/store/apps/details?id=sg.edu.suss.etp.sreader2)
 
-## Apps based on Readium Desktop
+## Apps based on Thorium
 
 [Readium Desktop](https://github.com/readium/desktop) is a toolkit for ebooks, PDF documents, audiobooks and comics written Typescript, using node.js and Electron.js, for use on Windows, MacOS and Linux.
 [Thorium Reader](https://thorium.edrlab.org/) is an open-source application available on Windows, macOS and Linux built on top of Readium Desktop which supports Readium LCP.
