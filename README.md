@@ -15,7 +15,6 @@ Readium is an open-source foundation dedicated to the development of software, s
 * [Specifications](#specifications)
 * [Live examples](#live-examples)
 * [Apps based on Readium Mobile](#apps-based-on-readium-mobile)
-* [Apps based on Thorium](#apps-based-on-thorium)
 * [Compatible with Readium Web Publications](#compatible-with-readium-web-publications)
 * [Other toolkits related to Readium](#other-toolkits-related-to-readium)
 
@@ -30,8 +29,9 @@ Readium is an open-source foundation dedicated to the development of software, s
  
 ## Open-source applications
 
-* [Readium Playground](https://github.com/readium/playground) for reading EPUB on the Web
-* [Thorium Reader](https://github.com/edrlab/thorium-reader) for EPUB, PDF and audiobooks on Windows, macOS and Linux
+* [Readium CLI](https://github.com/readium/cli), a multi-command utility for interacting with EPUB files
+* [Thorium Web](https://github.com/edrlab/thorium-web) for reading EPUB on the Web
+* [Thorium Desktop](https://github.com/edrlab/thorium-reader) for EPUB, PDF and audiobooks on Windows, macOS and Linux
 
 ## Specifications
 
@@ -45,7 +45,7 @@ A separate list of LCP adopters is maintained by EDRLab [here](https://www.edrla
 
 ## Live examples
 
-* [Readium Playground](https://playground.readium.org), an in-development Web Reader for EPUB files
+* [Readium Playground](https://playground.readium.org), a reference deployment of Thorium Web, meant for playing with the capabilities of Readium technologies
 * [Readium Speech](https://readium.org/speech/demo), a cross-platform voice selector demo
 * [Flatland (De Marque)](https://player.cantookaudio.com/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3JlYWRpdW0vd2VicHViLW1hbmlmZXN0L3JlZnMvaGVhZHMvbWFzdGVyL2V4YW1wbGVzL0ZsYXRsYW5kL21hbmlmZXN0Lmpzb24=) an audiobook published by Librivox distributed using [the audiobook profile](https://readium.org/webpub-manifest/profiles/audiobook) in De Marque's Audiobook Reader
 * [Animeta! (xbreader)](https://labs.j-novel.club/embed/v2/PRT-OKSLU4Y) a manga distributed using [the Divina profile](https://readium.org/webpub-manifest/profiles/divina) in a fork of xbreader
@@ -161,29 +161,6 @@ A separate list of LCP adopters is maintained by EDRLab [here](https://www.edrla
 * 🇸🇬 [SUSS Reader](https://www.suss.edu.sg/) (Singapore University of Social Sciences)
   * [Apple AppStore](https://apps.apple.com/sg/app/suss-reader-for-ebooks-epubs/id1477574366)
   * [Google Play Store](https://play.google.com/store/apps/details?id=sg.edu.suss.etp.sreader2)
-
-## Apps based on Thorium
-
-[Readium Desktop](https://github.com/readium/desktop) is a toolkit for ebooks, PDF documents, audiobooks and comics written Typescript, using node.js and Electron.js, for use on Windows, MacOS and Linux.
-[Thorium Reader](https://thorium.edrlab.org/) is an open-source application available on Windows, macOS and Linux built on top of Readium Desktop which supports Readium LCP.
-
-All of the applications listed below are based on Thorium and support Readium LCP as well:
-
-* 🇫🇷 [Thorium Reader](https://thorium.edrlab.org/) (EDRLab)
-  * [Download page](https://thorium.edrlab.org/)
-  * [Windows Store](https://bit.ly/thoriumreader-en)
-* 🇰🇪 [eKitabu e-reader](https://www.ekitabu.com/)
-  * [Windows Store](https://www.microsoft.com/en-us/p/ekitabu-e-reader/9mtzsjs9jsvw)
-* 🇬🇧 [Glassboxx](https://glassboxx.co.uk/)
-  * [Download page](https://glassboxx.com/glassboxx-downloads/)
-  * [Windows Store](https://www.microsoft.com/en-us/p/glassboxx/9nzklr5v4fq6)
-* 🇭🇰 [Inspirata ebooks](https://ebook.endao.co/index-Reader)
-  * [Download page](https://ebook.endao.co/index-Reader) 
-* 🇮🇹 [MLOL Ebook Reader](https://www.medialibrary.it) (Horizons Unlimited) 
-  * [Download page](https://www.medialibrary.it/pagine/pagina.aspx?id=881)
-* 🇮🇹 [Torrossa Reader](https://www.torrossa.com/en/reader) (Casalin Libri)
-  * [Download page](https://www.torrossa.com/en/reader)
-  * [Windows Store](https://apps.microsoft.com/store/detail/torrossa-reader/9PHKXVVK92PS)
 
 ## Compatible with Readium Web Publications
 
