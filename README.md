@@ -29,26 +29,26 @@ Readium is an open-source foundation dedicated to the development of software, s
  
 ## Open-source applications
 
-* [Readium CLI](https://github.com/readium/cli), a multi-command utility for interacting with EPUB files
-* [Thorium Web](https://github.com/edrlab/thorium-web) for reading EPUB on the Web
-* [Thorium Desktop](https://github.com/edrlab/thorium-reader) for EPUB, PDF and audiobooks on Windows, macOS and Linux
+* [Readium CLI](https://github.com/readium/cli) - A multi-command utility for interacting with EPUB files
+* [Thorium Web](https://github.com/edrlab/thorium-web) - A Web-Reader for reading EPUB on the Web
+* [Thorium Desktop](https://github.com/edrlab/thorium-reader) - A desktop app for EPUB, PDF and audiobooks on Windows, macOS and Linux
 
 ## Specifications
 
 The Readium community maintains several specifications for the publishing industry:
 
-* [Readium Web Publication Manifest](https://readium.org/webpub-manifest/), a JSON manifest format for distributing publications on the Web
-* [Readium Licensed Content Protection (LCP)](https://readium.org/lcp-specs/), an interoperable DRM scheme for packaged publications
-* [Readium License Status Document (LSD)](https://readium.org/lcp-specs/releases/lsd/latest/), a REST protocol that provides additional controls over a DRM license
+* [Readium Web Publication Manifest](https://readium.org/webpub-manifest/) - A JSON manifest format for distributing publications on the Web
+* [Readium Licensed Content Protection (LCP)](https://readium.org/lcp-specs/) - An interoperable DRM scheme for packaged publications
+* [Readium License Status Document (LSD)](https://readium.org/lcp-specs/releases/lsd/latest/) - A REST protocol that provides additional controls over a DRM license
 
 A separate list of LCP adopters is maintained by EDRLab [here](https://www.edrlab.org/readium-lcp/certified-apps-servers/).
 
 ## Live examples
 
-* [Readium Playground](https://playground.readium.org), a reference deployment of Thorium Web, meant for playing with the capabilities of Readium technologies
-* [Readium Speech](https://readium.org/speech/demo), a cross-platform voice selector demo
-* [Flatland (De Marque)](https://player.cantookaudio.com/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3JlYWRpdW0vd2VicHViLW1hbmlmZXN0L3JlZnMvaGVhZHMvbWFzdGVyL2V4YW1wbGVzL0ZsYXRsYW5kL21hbmlmZXN0Lmpzb24=) an audiobook published by Librivox distributed using [the audiobook profile](https://readium.org/webpub-manifest/profiles/audiobook) in De Marque's Audiobook Reader
-* [Animeta! (xbreader)](https://labs.j-novel.club/embed/v2/PRT-OKSLU4Y) a manga distributed using [the Divina profile](https://readium.org/webpub-manifest/profiles/divina) in a fork of xbreader
+* [Readium Playground](https://playground.readium.org) - A reference deployment of Thorium Web, meant for playing with the capabilities of Readium technologies
+* [Readium Speech](https://readium.org/speech/demo) - A cross-platform voice selector demo
+* [Flatland (De Marque)](https://player.cantookaudio.com/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3JlYWRpdW0vd2VicHViLW1hbmlmZXN0L3JlZnMvaGVhZHMvbWFzdGVyL2V4YW1wbGVzL0ZsYXRsYW5kL21hbmlmZXN0Lmpzb24=) - An audiobook published by Librivox distributed using [the audiobook profile](https://readium.org/webpub-manifest/profiles/audiobook) in De Marque's Audiobook Reader
+* [Animeta! (xbreader)](https://labs.j-novel.club/embed/v2/PRT-OKSLU4Y) - A manga distributed using [the Divina profile](https://readium.org/webpub-manifest/profiles/divina) in a fork of xbreader
 
 ## Apps based on Readium Mobile
 
@@ -166,14 +166,15 @@ A separate list of LCP adopters is maintained by EDRLab [here](https://www.edrla
 
 In addition to Readium projects, a number of other apps or open-source projects can support Readium Web Publications:
 
-* [Epub.js](https://github.com/futurepress/epub.js/) - an ebook viewer written in JS
-* [Vivliostyle](https://github.com/vivliostyle/vivliostyle.js) - a document and publication viewer written in JS
-* [xbreader](https://github.com/chocolatkey/xbreader) - a manga viewer written in TypeScript
+* [Epub.js](https://github.com/futurepress/epub.js/) - An ebook viewer written in JS
+* [Vivliostyle](https://github.com/vivliostyle/vivliostyle.js) - A document and publication viewer written in JS
+* [xbreader](https://github.com/chocolatkey/xbreader) - A manga viewer written in TypeScript
 
 ## Other toolkits related to Readium
 
-* [React Native Readium](https://github.com/5-stones/react-native-readium) A react-native wrapper for Readium Mobile & Web
-* [Iridium](https://github.com/Mantano/iridium) A Flutter port of Readium Mobile
+* [Flutter Readium](https://github.com/Notalib/flutter_readium) - A Flutter wrapper for Readium Mobile and Web
+* [React Native Readium](https://github.com/5-stones/react-native-readium) - A React Native wrapper for Readium Mobile & Web
+* [Iridium](https://github.com/Mantano/iridium) - A Flutter port of Readium Mobile
 
 ## License
 
