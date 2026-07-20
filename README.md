@@ -155,6 +155,8 @@ A separate list of LCP adopters is maintained by EDRLab [here](https://www.edrla
 * 🇸🇪 [Bläddra](https://kb.se/bladdra) (Kungliga Biblioteket)
   * [Apple AppStore](https://apps.apple.com/se/app/bläddra/id1501134109)
   * [Google Play Store](https://play.google.com/store/apps/details?id=se.kb.eboksappen)
+* 🇨🇿 [justRead](https://justread.app) (Petr Jahoda)
+  * [Apple AppStore](https://apps.apple.com/us/app/epub-reader-justread-app/id6757948605)
 * 🇺🇸 [cloudLibrary](https://www.yourcloudlibrary.com) (Bibliotheca)
   * [Apple AppStore](https://apps.apple.com/us/app/cloudlibrary-by-bibliotheca/id466446054)
   * [Google Play Store](https://play.google.com/store/apps/details?id=com.txtr.android.mmm)
