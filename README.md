@@ -155,6 +155,8 @@ A separate list of LCP adopters is maintained by EDRLab [here](https://www.edrla
 * 🇸🇪 [Bläddra](https://kb.se/bladdra) (Kungliga Biblioteket)
   * [Apple AppStore](https://apps.apple.com/se/app/bläddra/id1501134109)
   * [Google Play Store](https://play.google.com/store/apps/details?id=se.kb.eboksappen)
+* 🇨🇿 [justRead](https://justread.app) (Petr Jahoda)
+  * [Apple AppStore](https://apps.apple.com/us/app/epub-reader-justread-app/id6757948605)
 * 🇩🇪 [BookShelves](https://getbookshelves.app) - EPUB reader for macOS and iOS featuring free public domain book discovery, OPDS catalog server, and CloudKit sync
   * [Apple AppStore](https://apps.apple.com/app/bookshelves-ebook-reader/id6756848973)
 * 🇺🇸 [cloudLibrary](https://www.yourcloudlibrary.com) (Bibliotheca)
