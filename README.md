@@ -165,6 +165,8 @@ A separate list of LCP adopters is maintained by EDRLab [here](https://www.edrla
 * 🇸🇬 [SUSS Reader](https://www.suss.edu.sg/) (Singapore University of Social Sciences)
   * [Apple AppStore](https://apps.apple.com/sg/app/suss-reader-for-ebooks-epubs/id1477574366)
   * [Google Play Store](https://play.google.com/store/apps/details?id=sg.edu.suss.etp.sreader2)
+* [Helicon](https://helicon.pages.dev/?tag=awesome-readium) (Skailex) - free EPUB and PDF reader for iPad and iPhone: notes pinned in the margin beside a line, Apple Pencil handwriting, a speed reading guide, and read aloud with on-device voices (in the public beta)
+  * [Apple AppStore](https://apps.apple.com/app/apple-store/id6811677202?pt=125973633&ct=awesome-readium&mt=8)
 
 ## Compatible with Readium Web Publications
 
