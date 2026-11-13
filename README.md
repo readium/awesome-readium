@@ -162,6 +162,8 @@ A separate list of LCP adopters is maintained by EDRLab [here](https://www.edrla
 * 🇺🇸 [cloudLibrary](https://www.yourcloudlibrary.com) (Bibliotheca)
   * [Apple AppStore](https://apps.apple.com/us/app/cloudlibrary-by-bibliotheca/id466446054)
   * [Google Play Store](https://play.google.com/store/apps/details?id=com.txtr.android.mmm)
+* 🇺🇸 [Leaf](https://deadpan.io/leaf/) (Deadpan)
+  * [Apple AppStore](https://apps.apple.com/us/app/leaf-epub-library/id6771504450)
 * 🇸🇬 [SUSS Reader](https://www.suss.edu.sg/) (Singapore University of Social Sciences)
   * [Apple AppStore](https://apps.apple.com/sg/app/suss-reader-for-ebooks-epubs/id1477574366)
   * [Google Play Store](https://play.google.com/store/apps/details?id=sg.edu.suss.etp.sreader2)
